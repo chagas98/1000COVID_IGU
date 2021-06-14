@@ -1,0 +1,1021 @@
+Data,Nome,Idade,Sexo,Raca,Desfecho ,Comorb,Dias_sint,Assinto,Febre,Epigastralgia,Calafrios,vomito,diarreia,artralgia,anosmia,ageusia,odino,cefaleia,adinamia,tosse,hemop,coriza,congest_nasal,dispneia,mialgia,prostra,astenia,inapet,fadiga,nausea,tabagismo,escarro,congest_conj,transmiss,obs
+,1,35,M,Branca,Domicílio após coleta exame,,,9,1,9,2,9,2,2,9,9,1,2,,2,,2,2,1,2,9,9,9,1,2,2,2,2,1,
+,2,52,M,Parda,UTI COVID,"Hipertensão, Diabetes, Doença Renal",4,2,1,9,2,2,2,2,2,2,2,2,,1,,2,2,1,2,1,2,1,2,2,9,1,2,1,
+,3,53,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Diabetes, Doença cardiovascular",7,2,1,9,2,2,2,2,2,2,2,1,,1,,1,2,1,1,1,1,9,2,2,2,2,2,2,
+,4,55,M,Parda,UTI COVID,Ignorado,9,9,1,9,9,2,2,2,9,9,2,2,,1,,2,2,1,2,2,2,2,2,2,9,9,9,9,
+,5,48,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Hipertensão,5,9,2,9,9,2,1,2,9,9,2,2,,1,,2,2,1,1,9,9,9,9,2,2,9,9,2,
+,6,45,M,Parda,PA/PS  Respiratório,Hipertensão,4,9,2,9,9,2,1,2,9,9,2,1,,1,,2,2,2,1,9,9,9,9,2,9,9,9,2,
+,7,53,F,Branca,Domicílio após coleta exame,"Hipertensão, Diabetes",1,2,1,9,2,2,2,2,9,9,1,1,1,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,Contato com caso SUSPEITO
+,8,42,F,Ignorado,Domicílio após coleta exame,Ignorado,3,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,1,2,9,9,9,9,2,2,2,2,2,"Resposta não, para todas as morbidades"
+,9,20,F,Branca,Domicílio após coleta exame,Ignorado,3,2,2,9,2,2,2,2,1,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,"Resposta não, para todas morbidades, sem morbidades"
+,10,42,M,Parda,UTI COVID,Diabetes,7,2,1,9,2,2,2,2,9,9,2,2,1,1,1,2,2,2,2,2,1,1,2,1,9,2,2,1,
+,11,54,M,Branca,Domicílio após coleta exame,Diabetes,Ignorado,2,1,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,1,1,9,9,2,2,9,9,9,2,
+,12,43,F,Branca,Domicílio após coleta exame,Sem morbidades,6,2,1,9,1,2,1,2,9,9,2,2,2,1,9,2,2,1,1,1,2,1,2,2,9,9,9,2,
+,13,48,F,Branca,Domicílio após coleta exame,Sem morbidades,5,9,2,9,9,2,1,2,9,9,1,2,2,1,9,2,1,2,2,2,2,9,2,2,9,9,9,2,
+,14,55,F,Ignorado,Domicílio após coleta exame,Ignorado,8,9,1,9,2,2,2,9,9,9,1,1,9,1,9,9,9,1,2,1,2,1,9,1,2,2,2,9,Viagem Nacional nos últimos 14D – São Paulo
+,15,35,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Obesidade, Hipertensão",3,9,1,9,2,2,2,9,9,9,9,1,9,1,9,9,9,1,9,1,9,9,9,9,9,2,2,3,
+,16,56,F,Branca,Domicílio após coleta exame,Ignorado,2,9,2,9,2,2,2,9,9,9,2,1,9,1,9,2,2,2,1,9,9,9,9,9,9,2,2,2,
+,17,31,M,Parda,Domicílio após coleta exame,Sem morbidades,6,9,1,9,2,2,2,2,9,9,9,1,9,1,9,1,2,1,2,1,9,2,1,2,9,2,2,2,
+,18,36,M,Branca,Domicílio após coleta exame,Ignorado,3,9,1,9,2,2,2,9,1,1,2,9,9,1,9,2,2,2,1,2,9,9,9,2,2,2,2,9,Viagem Nacional nos últimos (há 9dias) — São Paulo
+,19,44,F,Parda,PA/PS  Respiratório,Hipertensão,2,2,1,9,2,2,1,2,9,9,2,1,2,1,9,2,2,1,2,9,2,9,9,2,2,2,2,1,
+,20,19,M,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,1,
+,21,24,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,1,2,2,9,1,1,2,1,2,1,9,1,2,1,1,1,1,9,2,1,1,2,2,5,
+,22,67,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Hipertensão,14,9,1,2,2,2,2,9,9,9,2,1,2,1,9,2,2,1,1,2,2,9,2,2,3,2,2,4,
+,23,19,M,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,1,
+,24,33,M,Ignorado,Domicílio após coleta exame,Ignorado,Ignorado,2,1,9,2,2,2,9,9,9,2,1,9,2,9,1,2,2,1,1,9,9,1,1,9,2,2,2,
+,25,31,M,Ignorado,Domicílio após coleta exame,Ignorado,7,9,1,9,2,2,2,2,9,9,1,2,2,1,9,2,2,2,1,2,9,9,2,2,9,2,2,5,
+,26,47,F,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Diabetes, Doença cardiovascular",9,9,1,1,2,2,1,9,9,9,2,1,2,2,9,2,2,2,1,1,1,1,9,2,2,2,2,3,
+,27,0.1,M,Parda,Domicílio após coleta exame,Ignorado,3,2,1,9,2,2,2,9,9,9,2,2,2,1,9,1,2,2,2,2,9,9,9,9,2,2,2,1,
+,28,53,F,Parda,Domicílio após coleta exame,Doença Pulmonar,2,2,2,9,2,2,2,9,9,9,9,9,9,1,9,2,2,1,2,2,9,9,2,2,2,2,2,3,
+,29,49,M,Indio,PA/PS  Respiratório,"Hipertensão, Diabetes",2,2,1,9,9,9,2,2,9,9,1,1,2,1,9,1,2,1,2,2,9,9,2,2,2,9,9,1,
+,30,33,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,2,2,2,2,2,9,9,2,1,2,2,2,2,2,2,1,9,9,9,9,2,2,2,2,4,
+,31,49,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,32,26,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,1,2,9,9,9,9,2,1,2,2,9,
+,33,87,M,Parda,Óbito,"Hipertensão, Diabetes, Doença cardiovascular, Doença Renal",7,9,2,9,9,2,2,9,9,9,2,2,2,1,9,2,2,1,2,1,2,9,2,2,3,9,9,1,
+,34,31,F,Parda,Domicílio após coleta exame,Doença Pulmonar,5,2,2,9,2,2,2,2,9,9,2,1,2,2,9,2,2,1,2,9,9,9,1,2,2,2,2,1,Alta: Evadiu-se
+,35,31,F,Parda,Domicílio após coleta exame,Sem morbidades,6,2,1,9,2,1,2,2,9,9,1,1,2,1,9,1,1,1,2,9,9,9,9,1,2,2,2,4,Dificuldade de deglutir :  Sim ; dor torácica ventilatório dependente
+,36,39,F,Branca,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,2,1,1,1,9,1,1,2,1,1,9,1,9,2,2,2,2,2,
+,37,24,M,Parda,PA/PS  Respiratório,Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,2,9,2,9,1,2,2,1,1,1,1,2,2,3,2,2,5,
+,38,66,F,Parda,UTI COVID,"Hipertensão, Diabetes, Doença cardiovascular",15,2,1,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,2,2,2,2,2,2,9,2,2,1,
+,39,26,F,Ignorado,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,2,9,9,1,1,1,2,9,1,2,2,1,9,9,9,1,2,2,2,2,1,
+,40,38,M,Branca,Domicílio após coleta exame,Ignorado,Ignorado,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,1,2,2,2,2,9,2,2,5,
+,41,28,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,1,2,9,9,1,1,2,1,9,1,1,2,1,9,9,9,9,2,2,2,2,4,
+,42,21,F,Branca,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,1,2,9,9,1,1,1,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,43,40,F,Branca,Domicílio após coleta exame,Ignorado,1,2,2,9,2,2,1,2,9,9,2,1,1,2,9,2,2,2,2,9,9,9,1,2,9,2,2,4,
+,44,41,F,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,2,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,45,37,M,Parda,Domicílio após coleta exame,Ignorado,3,2,1,9,2,1,2,2,9,9,9,1,1,2,9,2,2,1,1,9,9,9,9,1,9,2,2,1,
+,46,21,M,Parda,Domicílio após coleta exame,Doença Pulmonar,4,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,2,
+,47,30,F,Parda,Domicílio após coleta exame,Obesidade,5,2,1,9,1,2,2,2,9,9,2,1,2,1,9,1,1,1,1,9,9,9,9,9,2,2,1,2,
+,48,25,F,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,Ignorado,2,2,9,2,2,2,9,9,9,2,2,2,2,9,2,2,2,2,9,9,9,9,2,9,2,2,9,Paciente da ortopedia
+,49,61,M,Parda,Domicílio após coleta exame,"Doença Pulmonar, Hipertensão, Doença cardiovascular",7,2,2,9,2,2,2,9,9,9,2,2,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,1,
+,50,49,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,1,2,2,2,2,9,9,2,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,51,36,F,Parda,UTI COVID,Sem morbidades,4,9,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,2,9,9,2,2,2,2,2,2,
+,52,22,M,Ignorado,Domicílio após coleta exame,Ignorado,2,2,2,9,2,2,2,2,9,9,1,2,2,1,9,2,2,2,2,2,2,9,2,2,9,2,2,2,
+,53,27,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,2,9,9,2,2,2,2,2,2,
+,54,51,M,Parda,Domicílio após coleta exame,"Hipertensão, Diabetes, Outras",3,2,1,9,2,2,1,2,9,9,2,2,2,1,9,1,1,2,2,2,9,9,2,2,2,2,2,1,
+,55,27,F,Branca,Domicílio após coleta exame,Ignorado,4,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,2,9,9,2,1,9,2,2,1,
+,56,51,M,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,2,1,2,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,Uso de Dipirona
+,57,51,M,Ignorado,Domicílio após coleta exame,Diabetes,3,2,2,9,2,2,2,2,9,9,1,1,1,1,2,1,2,1,2,9,2,9,2,2,2,2,2,1,
+,58,26,F,Ignorado,Domicílio após coleta exame,Ignorado,Ignorado,2,1,9,2,2,2,2,9,9,9,1,2,1,9,2,2,2,2,2,9,9,9,2,9,2,2,2,
+,59,39,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,6,2,2,9,1,2,1,2,9,9,1,2,2,1,9,2,2,1,2,2,9,9,2,2,2,1,2,5,
+,60,31,M,Ignorado,Domicílio após coleta exame,Sem morbidades,Ignorado,2,1,9,2,2,2,9,9,9,1,1,2,1,9,2,2,2,1,2,9,9,9,2,2,2,2,1,
+,61,73,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Doença cardiovascular, Outras",5,2,1,9,2,2,2,2,1,1,2,2,2,1,9,1,2,2,2,2,9,1,9,2,1,1,2,2,
+,62,29,F,Parda,Domicílio após coleta exame,Ignorado,4,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,1,9,9,9,2,9,2,2,1,
+,63,31,M,Ignorado,Domicílio após coleta exame,Ignorado,6,2,2,9,2,2,2,9,9,1,2,2,2,1,9,2,2,2,2,2,1,1,2,2,2,2,2,1,
+,64,8,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,2,2,2,2,1,1,2,2,2,9,9,9,2,9,2,2,2,
+,65,39,M,Branca,Domicílio após coleta exame,Ignorado,2,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,2,2,9,9,2,9,2,2,5,
+,66,86,F,Branca,PA/PS  Respiratório,"Hipertensão, Diabetes, Outras",4,2,2,9,1,2,2,2,9,9,2,1,1,2,9,2,2,2,2,2,2,1,2,2,2,2,2,5,
+,67,48,F,Amarela,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,1,2,2,9,2,2,2,2,2,3,
+,68,54,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,1,2,2,2,9,9,1,1,2,1,9,2,2,2,2,2,2,9,2,2,1,2,2,2,
+,69,53,F,Parda,Domicílio após coleta exame,"Doença Pulmonar, Hipertensão, Diabetes",2,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,2,2,2,2,2,2,2,2,2,
+,70,17,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,1,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,71,30,F,Branca,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,1,9,2,2,2,1,9,2,2,2,2,9,9,9,9,9,2,2,2,3,
+,72,21,F,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,1,9,9,9,9,9,9,9,1,1,9,9,9,1,9,9,1,9,9,9,9,9,9,9,9,1,
+,73,37,F,Branca,Domicílio após coleta exame,Hipertensão,5,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,1,2,2,9,9,9,9,2,2,2,2,3,
+,74,38,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,75,50,M,Branca,Domicílio após coleta exame,Diabetes,5,2,2,9,2,2,2,2,9,9,1,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,76,22,F,Branca,Domicílio após coleta exame,Outras,3,2,9,9,9,1,1,9,9,9,1,9,9,1,9,9,9,9,9,9,9,9,9,1,9,9,9,1,
+,77,45,F,Branca,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,78,53,M,Ignorado,Domicílio após coleta exame,Ignorado,3,2,9,9,2,9,9,9,9,9,9,1,9,1,9,9,9,9,9,9,9,9,9,9,9,2,2,1,
+,79,18,F,Negra,Domicílio após coleta exame,Ignorado,Ignorado,2,9,9,2,9,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,2,2,1,
+,80,43,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,1,1,1,9,1,2,2,1,1,9,9,9,2,2,2,2,1,
+,81,25,F,Parda,Domicílio após coleta exame,Ignorado,3,2,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,1,
+,82,25,F,Parda,Domicílio após coleta exame,Sem morbidades,1,2,9,9,2,1,9,9,9,9,9,1,9,1,9,9,9,9,9,9,9,9,9,1,2,2,2,1,
+,83,24,M,Parda,Domicílio após coleta exame,Sem morbidades,17,2,1,9,2,9,1,9,9,9,1,2,1,2,9,9,9,1,1,1,9,9,9,1,2,2,2,1,"Paciente depois de 6 dias tem resultado negativo, retorna pela persistencia dos dintomas e testa positivo, nega sintomas que não os citados"
+,84,44,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,9,9,2,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,2,2,2,2,
+,85,9,M,Ignorado,Domicílio após coleta exame,Ignorado,4,2,9,9,2,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,2,2,1,
+,86,19,M,Branca,Domicílio após coleta exame,Sem morbidades,7,2,9,9,2,9,9,9,9,9,1,1,9,1,9,1,9,9,1,9,9,9,9,9,9,2,2,1,
+,87,23,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,9,2,2,2,9,9,2,1,2,2,9,2,2,2,2,9,9,9,9,2,2,9,9,1,
+,88,33,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,2,1,2,2,2,9,9,2,1,2,1,9,1,1,2,1,2,2,9,9,2,2,2,1,2,
+,89,19,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,1,2,9,9,2,2,2,2,2,1,
+,90,33,F,Branca,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,2,2,9,9,2,2,2,2,2,3,
+,91,33,F,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,2,2,9,9,1,1,1,1,9,1,2,2,1,2,9,9,2,2,2,2,2,1,
+,92,44,F,Branca,Domicílio após coleta exame,Sem morbidades,2,2,2,2,1,2,2,2,9,9,1,1,2,1,9,1,1,2,2,2,2,2,2,1,2,2,2,3,
+,93,19,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,9,9,9,1,1,2,1,9,1,2,2,1,2,2,9,2,2,2,2,2,2,
+,94,39,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Hipertensão,7,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,1,1,1,9,2,2,2,2,2,1,
+,95,20,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Doença Neurológica,Não se aplica,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,9,
+,96,55,F,Parda,Domicílio após coleta exame,Outras,6,2,1,9,2,2,2,2,9,9,2,1,1,1,9,2,2,2,1,2,9,9,9,2,2,2,2,2,
+,97,55,F,Parda,Domicílio após coleta exame,Outras,6,2,1,9,2,2,2,2,9,9,2,1,1,1,9,2,2,2,1,2,9,9,9,2,2,2,2,2,
+,98,2,M,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,1,2,2,2,2,2,9,9,2,2,2,2,9,1,1,2,2,2,2,9,2,2,2,2,2,2,
+,99,57,M,Ignorado,Domicílio após coleta exame,"Hipertensão, Diabetes",7,2,2,2,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,1,9,9,2,2,2,2,2,2,
+,100,45,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,1,1,2,2,2,1,9,2,2,2,2,2,2,9,2,2,2,2,2,2,
+,101,29,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,15,2,1,9,2,2,1,2,9,9,1,2,2,1,9,2,2,1,2,2,9,9,9,2,2,2,2,5,
+,102,26,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,Não se aplica,1,2,9,2,2,2,2,9,9,9,2,2,2,9,2,2,2,2,2,2,9,2,2,1,9,9,1,
+,103,7,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Diabetes",7,2,1,9,2,2,1,1,9,9,2,2,2,1,9,2,2,2,2,1,1,1,2,1,2,2,2,5,
+,104,23,F,Parda,Domicílio após coleta exame,Sem morbidades,0,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,9,2,2,4,Procurou atendimento 12 horas após inicio dos sintomas
+,105,24,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,1,2,1,9,1,2,2,2,1,2,1,
+,106,27,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,1,2,1,9,9,9,2,2,2,2,2,4,
+,107,25,F,Branca,PA/PS  Respiratório,Sem morbidades,3,2,1,9,1,2,2,2,9,9,1,1,2,2,9,1,2,2,1,2,2,2,2,2,2,2,2,3,
+,108,26,M,Branca,Domicílio após coleta exame,Sem morbidades,Não se aplica,1,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,2,2,2,2,2,2,2,1,9,9,9,
+,109,24,M,Parda,Domicílio após coleta exame,Sem morbidades,8,2,2,9,2,2,2,1,9,9,1,1,1,2,9,1,1,2,1,2,9,9,2,2,2,2,1,1,
+,110,19,F,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,1,9,1,2,2,2,9,9,1,1,1,2,9,1,1,2,1,2,9,9,9,2,2,2,2,2,
+,111,44,F,Branca,Domicílio após coleta exame,Obesidade,3,2,1,9,1,2,1,2,9,9,2,1,9,1,9,2,1,2,1,2,2,2,2,2,2,2,2,5,
+,112,64,F,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Diabetes, Outras",15,2,1,9,1,2,2,2,9,9,2,1,2,1,9,2,1,2,1,2,9,9,2,2,2,2,2,2,
+,113,48,M,Parda,Domicílio após coleta exame,Ignorado,não se aplica,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,
+,114,41,M,Parda,Domicílio após coleta exame,Sem morbidades,Não se aplica,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+,115,49,F,Branca,Domicílio após coleta exame,Hipertensão,,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,2,2,9,9,2,2,2,1,2,1,
+,116,100,F,Branca,Domicílio após coleta exame,Hipertensão,4,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,2,9,9,2,3,2,2,5,
+,117,21,M,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,2,9,9,2,2,2,2,1,Dor ventilatoria
+,118,51,M,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,1,9,2,2,2,9,9,9,2,1,2,2,9,2,2,2,1,9,2,9,9,2,2,2,2,2,
+,119,18,F,Parda,Domicílio após coleta exame,Ignorado,3,2,2,9,2,2,2,2,1,1,2,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,5,Dor retro-orbitaria
+,120,22,F,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,9,1,2,2,2,9,2,1,1,1,1,9,1,2,2,1,1,9,9,2,1,2,2,2,2,Dor orbicular com ardencia
+,121,31,M,Parda,Domicílio após coleta exame,Diabetes,3,2,2,9,1,2,2,1,9,9,1,1,2,2,9,2,2,2,1,1,9,9,9,2,2,2,2,2,
+,122,62,M,Parda,Domicílio após coleta exame,Sem morbidades,6,2,1,9,2,1,2,2,9,9,1,1,2,1,9,2,2,2,2,9,2,9,9,1,2,2,2,2,
+,123,50,F,Branca,Domicílio após coleta exame,Hipertensão,1,2,2,9,1,2,2,1,9,9,1,1,2,1,9,1,2,2,1,1,9,9,9,2,2,2,2,2,Dor ocular
+,124,27,M,Parda,PA/PS  Respiratório,Doença Pulmonar,3,2,1,1,2,1,1,2,9,9,2,1,1,2,9,2,2,1,1,2,9,1,1,2,1,2,2,1,
+,125,20,F,Branca,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,126,4,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,2,9,9,2,9,2,2,2,2,2,
+,127,33,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,3,2,2,9,2,2,1,2,1,1,1,2,2,1,9,1,2,2,2,9,9,1,1,2,2,2,2,2,
+,128,51,F,Ignorado,Domicílio após coleta exame,"Obesidade, Hipertensão, Diabetes",7,2,2,9,2,2,2,2,9,1,2,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,2,Dor abdominal umbilical
+,129,42,F,Parda,UTI COVID,Doença Pulmonar,4,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,1,1,9,1,9,2,2,2,2,2,dor no torax
+,130,31,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,2,Dispineia ao caminhar
+,131,32,F,Parda,Domicílio após coleta exame,Ignorado,5,2,2,9,2,2,2,2,9,9,2,1,2,2,9,1,2,2,2,9,9,9,9,2,2,2,2,2,dor no peito
+,132,87,M,Parda,UTI COVID,Outras,5,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,1,9,2,9,2,2,9,insuficiência respiratória 
+,133,63,F,Amarela,UTI COVID,Ignorado,ignorado,2,1,9,9,2,2,2,9,9,2,2,2,2,9,2,2,1,2,9,9,9,9,2,9,2,2,9,hipotermia hipotensa
+,134,49,F,Parda,UTI COVID,"Obesidade, Hipertensão, Diabetes, Outras",5,2,1,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,2,9,9,9,9,9,9,2,2,2,Esforço respiratório (musculatura acessoria)
+,135,23,F,Negra,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença Pulmonar, Outras",ignorado,2,2,9,1,2,1,2,9,9,2,1,2,2,9,1,2,2,1,9,9,9,9,2,2,2,2,3,Epistaxe pós-espirro.
+,136,78,F,Branca,PA/PS  Respiratório,"Doença Neurológica, Outras",1,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,137,0.9,M,Ignorado,PA/PS  Respiratório,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,1,
+,138,43,F,Branca,Domicílio após coleta exame,Ignorado,6,2,1,9,2,2,2,2,9,9,1,1,1,2,9,2,2,2,1,1,9,9,9,2,9,2,2,2,
+,139,38,M,Parda,Domicílio após coleta exame,Outras,4,2,2,2,2,2,2,2,2,2,2,1,2,1,2,1,2,1,2,2,2,2,2,2,1,1,2,9,
+,140,23,M,Parda,Domicílio após coleta exame,Outras,3,2,1,2,2,2,2,2,2,2,1,1,2,1,2,1,2,2,2,2,2,2,2,2,1,2,2,9,
+,141,52,F,Branca,Domicílio após coleta exame,Sem morbidades,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,1,2,1,1,2,2,2,2,2,2,2,2,9,
+,142,22,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,9,2,2,9,
+,143,1,M,Ignorado,Domicílio após coleta exame,Outras,3,2,1,2,2,2,2,2,2,2,2,2,2,1,2,1,1,2,2,2,2,2,2,2,2,2,2,2,Contato com caso positivo (Alessandro de Assis)
+,144,57,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,9,2,2,9,2,1,1,2,9,9,2,1,1,1,9,2,2,1,1,2,2,1,1,2,3,2,2,9,
+,145,1,M,Parda,Domicílio após coleta exame,Outras,1,2,2,2,2,2,1,2,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,1,Tabagista Passivo
+,146,9,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,1,2,2,9,2,2,1,2,2,9,9,2,2,2,2,2,2,
+,147,42,M,Parda,Domicílio após coleta exame,Ignorado,7,2,1,9,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+,148,50,F,Parda,Domicílio após coleta exame,Sem morbidades,6,2,1,2,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,2,2,9,2,2,9,
+,149,37,F,Parda,Domicílio após coleta exame,Ignorado,ignorado,2,2,9,1,2,2,2,9,9,1,1,2,1,9,1,1,1,1,1,9,9,9,2,2,2,2,2,
+,150,22,M,Negra,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,1,2,1,2,9,9,9,1,2,2,2,3,
+,151,27,F,Branca,Domicílio após coleta exame,Doença Pulmonar,3,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,2,
+,152,23,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,1,2,9,2,2,2,2,9,9,2,2,2,1,9,1,1,2,2,9,9,9,9,2,1,2,2,1,
+,153,57,F,Parda,Domicílio após coleta exame,Hipertensão,5,2,2,9,2,2,2,2,9,9,1,1,2,2,9,1,1,2,1,9,9,9,9,2,2,2,2,1,
+,154,71,F,Parda,Óbito,"Hipertensão, Diabetes, Doença cardiovascular",não registrado,2,1,9,1,2,2,9,9,9,1,2,2,1,9,1,1,1,2,9,9,9,9,2,2,1,2,9,"Sintomas gripais, com expectoração. Tosse produtiva desenvolvendo  IrpA"
+,155,53,F,Parda,Óbito,"Hipertensão, Diabetes",não registrado,2,2,9,2,2,2,2,9,9,2,2,1,2,9,2,2,1,2,9,9,9,1,2,9,2,2,9,"Dispnéia, Fraqueza e Tontura. Possível evolução: Pneumonia Viral; DRC Agudizada;"
+,156,21,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,1,2,1,
+,157,18,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,2,2,1,1,2,2,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,158,21,M,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,1,1,1,9,9,9,9,9,2,2,2,2,
+,159,44,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,1,2,2,2,9,9,1,1,2,2,9,2,2,1,1,1,9,9,9,2,2,2,2,1,
+,160,50,,Branca,Domicílio após coleta exame,Ignorado,4,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,2,Dor toráxica posterior
+,161,37,M,Parda,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,162,26,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,1,1,9,9,9,9,2,2,2,2,2,
+,163,64,M,Ignorado,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,1,2,9,9,2,2,2,2,9,1,2,2,1,1,9,9,9,2,2,2,2,2,
+,164,53,M,Parda,Domicílio após coleta exame,Hipertensão,7,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,2,2,9,9,9,2,2,2,2,1,
+,165,2,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,1,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,166,48,F,Ignorado,Domicílio após coleta exame,Obesidade,6,2,2,9,2,2,2,2,9,9,1,1,1,2,9,2,2,2,1,9,9,9,9,1,2,2,2,1,espirros com mialgia
+,167,67,M,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,2,1,9,9,9,2,2,2,2,1,
+,168,45,M,Branca,PA/PS  Respiratório,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,1,2,9,9,9,9,2,2,2,1,
+,169,37,M,Ignorado,Domicílio após coleta exame,Hipertensão,2,2,1,9,2,2,2,2,9,9,1,2,2,2,9,1,1,2,2,1,9,9,9,2,2,2,2,1,
+,170,0.5,M,Parda,PA/PS  Respiratório,Sem morbidades,2,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,2,2,9,9,9,2,2,2,2,1,
+,171,0.5,M,Parda,PA/PS  Respiratório,Sem morbidades,2,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,1,
+,172,16,M,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,2,2,2,9,1,2,1,2,2,2,9,9,2,2,2,2,2,
+,173,52,M,Branca,Domicílio após coleta exame,Hipertensão,6,2,1,9,2,2,1,2,9,9,2,1,2,2,9,1,2,2,2,2,9,9,9,2,2,2,2,2,
+,174,52,M,Ignorado,Domicílio após coleta exame,Obesidade,3,2,2,9,2,2,2,2,9,9,1,1,1,1,9,2,2,2,2,1,9,9,9,2,2,2,2,5,
+,175,16,F,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,9,1,2,1,2,9,9,2,2,2,1,9,1,1,2,2,1,2,9,2,2,2,2,2,2,
+,176,18,F,Ignorado,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,1,2,2,9,9,1,1,1,1,9,1,2,1,2,9,1,9,1,1,1,2,2,1,
+,177,36,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,178,8,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,1,1,2,2,9,1,2,2,1,9,9,9,9,2,2,2,2,2,Dor retro-orbital
+,179,21,M,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,2,2,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,180,11,F,Branca,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,181,60,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,2,9,9,9,9,2,9,2,2,5,
+,182,40,F,Branca,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,1,9,9,2,9,2,2,1,
+,183,24,M,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,184,59,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Doença cardiovascular, Doença Neurológica",ignorado,2,1,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,2,9,9,9,1,2,2,2,2,1,
+,185,37,M,Parda,Domicílio após coleta exame,Outras,1,2,1,9,2,2,2,2,1,9,1,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,186,30,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,5,
+,187,23,M,Branca,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,1,9,9,9,2,1,2,2,5,"Afebril, respiração cansada "
+,188,39,M,Parda,Domicílio após coleta exame,Obesidade,5,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,189,73,M,Parda,PA/PS  Respiratório,"Diabetes, Outras",1,2,1,9,1,2,2,2,9,9,2,2,2,1,9,2,2,2,2,1,1,1,9,2,1,2,2,1,Dor subcostal esquerda
+,190,62,F,Branca,Domicílio após coleta exame,Ignorado,3,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,9,2,2,1,
+,191,79,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença Pulmonar, Hipertensão, Doença cardiovascular",2,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,3,1,2,1,"Instabilidade respiratória , dor intensa ventilatório-dependente em HTE(Hemitórax Esq;) , dispneico em uso de máscara 6L/min. Tosse com catarro. Constipação"
+,192,44,F,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Outras,1,2,1,1,2,2,1,2,9,9,1,1,2,1,9,1,2,1,1,9,1,9,9,1,2,2,2,1,dor na barriga
+,193,16,F,Parda,Domicílio após coleta exame,Obesidade,3,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,1,
+,194,65,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença Pulmonar, Hipertensão, Diabetes",2,2,2,9,2,2,1,2,9,9,2,2,2,1,9,2,2,2,2,9,1,9,9,2,1,2,2,2,"desconforto respiratório c/ auxílio de O2 por cateter nasal 2L/min,"
+,195,58,M,Parda,Domicílio após coleta exame,Hipertensão,7,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,2,2,1,2,1,
+,196,47,F,Parda,Domicílio após coleta exame,Ignorado,4,2,2,9,2,2,2,2,9,9,2,1,2,2,9,1,2,1,1,1,9,9,9,2,9,2,2,2,
+,197,41,M,Branca,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,1,2,2,1,9,1,1,2,1,1,9,9,9,2,2,2,2,1,
+,198,54,F,Parda,Domicílio após coleta exame,Ignorado,3,2,1,9,2,2,2,2,9,9,2,1,2,2,9,1,2,2,1,9,9,9,9,2,2,2,2,1,Dor na nuca
+,199,39,M,Ignorado,Domicílio após coleta exame,Hipertensão,1,2,2,9,2,2,2,2,9,9,1,2,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,200,39,M,Ignorado,Domicílio após coleta exame,Ignorado,3,2,1,9,1,2,2,2,9,9,2,1,2,1,9,2,2,2,1,1,9,9,1,2,2,2,2,2,
+,201,23,F,Branca,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,2,9,9,1,2,2,2,9,2,1,2,2,9,9,9,9,2,2,2,2,2,
+,202,24,F,Branca,Domicílio após coleta exame,Obesidade,Não se aplica,1,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,2,2,9,9,9,9,2,9,2,2,3,
+,203,6,M,Parda,PA/PS  Respiratório,Sem morbidades,1,2,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,204,41,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,2,1,2,2,2,
+,205,28,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,2,
+,206,39,M,Parda,Domicílio após coleta exame,Ignorado,3,2,1,9,2,2,2,2,9,9,1,2,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,espirros
+,207,15,F,Parda,Domicílio após coleta exame,Doença Pulmonar,7,2,2,2,2,2,2,2,9,9,9,2,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,2,
+,208,3,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Doença Pulmonar,2,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,1,2,9,1,9,9,2,2,2,2,1,"   (Esforços respiratórios e sibilos na ausculta[Encaminh. Pediatra], tiragem intercostal+uso musculatura acessória"
+,209,24,F,Branca,PA/PS  Respiratório,"Obesidade, Hipertensão, Outras",5,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,1,2,1,9,9,9,2,2,2,2,1," Dor precordial irradiando pra MMSS esquerdo, tontura"
+,210,8,M,Ignorado,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,5,
+,211,6,M,Ignorado,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,3,2,1,9,1,2,2,2,9,9,2,1,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,1, dor na região infraescapular
+,212,6,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,1,2,1,9,2,2,2,2,9,9,1,2,2,2,9,1,1,2,2,1,9,9,9,2,2,2,2,1,
+,213,26,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,1,2,2,5,dificuldade para dormi
+,214,50,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,215,39,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,2,2,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,216,32,M,Ignorado,Domicílio após coleta exame,Obesidade,7,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,1,1,9,9,9,9,2,2,1,2,2,
+,217,55,M,Branca,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,2,2,9,9,1,2,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,2,
+,218,53,M,Parda,Domicílio após coleta exame,Outras,4,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,2,
+,219,41,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Diabetes",10,2,1,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,2,2,1,2,2,
+,220,19,M,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,1,9,1,2,2,2,9,9,1,1,2,1,9,2,2,1,1,9,9,9,9,2,1,2,2,2,
+,221,33,F,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,1,9,2,1,1,1,9,2,1,1,1,1,9,9,9,2,2,2,2,1,
+,222,21,F,Parda,Domicílio após coleta exame,Sem morbidades,1,2,1,9,1,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,223,31,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença Pulmonar, Outras",4,2,1,9,2,2,2,2,9,9,2,2,2,2,9,2,2,1,1,9,9,9,9,2,9,2,2,9,Dor retro-ocular e fezes amolecidas
+,224,63,F,Branca,Domicílio após coleta exame,Ignorado,4,2,2,9,2,2,2,2,9,9,1,1,2,9,9,9,9,2,1,9,9,9,9,2,9,9,2,9,
+,225,43,F,Branca,Domicílio após coleta exame,Hipertensão,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,2,9,9,9,9,9,2,2,2,9,
+,226,43,M,Branca,Domicílio após coleta exame,"Doença Pulmonar, Outras",9,2,1,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,2,Renite Alérgica
+,227,32,F,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,1,2,1,9,9,2,1,1,1,9,2,2,2,1,9,9,9,2,1,2,2,2,2,
+,228,27,F,Branca,Domicílio após coleta exame,Infecção HIV,11,2,9,9,9,9,1,9,9,9,1,1,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,2,Raça Parda. Dor no peito. Espectoração purulenta. Sinusite recorrente. 
+,229,22,F,Negra,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,1,9,9,9,9,9,2,2,2,5,
+,230,30,M,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,2,2,9,9,2,1,2,9,9,1,2,2,1,9,2,9,9,2,2,2,2,2,
+,231,48,M,Amarela,Domicílio após coleta exame,Sem morbidades,6,2,1,2,9,9,9,9,9,9,9,9,9,1,9,1,9,1,9,9,9,9,9,9,9,9,9,1,
+,232,23,M,Ignorado,Domicílio após coleta exame,Sem morbidades,11,2,1,2,9,9,9,9,1,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,5,
+,233,50,M,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,1,9,2,2,2,9,9,2,1,2,2,2,2,2,2,2,9,2,9,9,2,2,2,2,9,
+,234,39,F,Branca,PA/PS  Respiratório,Ignorado,8,2,1,9,1,9,1,9,9,9,1,1,1,9,9,9,9,1,9,1,1,9,9,9,9,1,9,1,Dor intensa no peito ao respirar. 
+,235,61,F,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Diabetes, Outras",6,2,2,9,2,2,2,2,1,9,1,1,2,2,9,2,2,2,1,9,2,9,9,2,2,2,2,1,"Hipotireodismo, hipocolesterolemia, depressão."
+,236,5,M,Ignorado,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,2,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,237,65,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença cardiovascular, Doença Neurológica, Outras",5,2,2,9,2,2,2,2,9,9,2,2,2,1,2,2,2,1,1,9,2,9,9,2,3,2,2,1,TROMBOSE VEIA MESENTÉRICA + ÚLCERA GÁSTRICA + CIRROSE HEPÁTICA+DOR PLEURÍTICA + DOR NUCA
+,238,55,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Obesidade,4,2,2,9,9,2,9,9,9,9,2,2,1,1,9,9,9,1,9,9,1,9,9,2,2,9,9,2,
+,239,53,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,240,53,M,Parda,Domicílio após coleta exame,Outras,2,2,1,9,1,1,2,2,9,9,2,1,1,1,9,1,1,1,1,1,1,1,9,1,2,2,2,2,Morbidades: historico de hepatite b
+,241,19,F,Ignorado,PA/PS  Respiratório,Doença Pulmonar,15,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,9,2,1,2,2,9,9,2,1,9,2,2,Renite. Asma. Dor torácica. Manchas vermelhas no corpo. 
+,242,57,M,Branca,Domicílio após coleta exame,Diabetes,9,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,2,1,2,5,
+,243,67,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Obesidade, Hipertensão",3,2,1,9,2,2,1,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,rinoreia
+,244,32,M,Negra,PA/PS  Respiratório,Sem morbidades,5,2,1,9,2,2,1,2,9,9,1,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,245,50,F,Branca,Domicílio após coleta exame,Ignorado,1,2,1,9,9,1,1,2,9,9,9,1,9,9,9,9,9,2,9,1,9,9,9,1,9,9,9,1,Dores nas articulações
+,246,6,M,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,247,70,F,Ignorado,PA/PS  Respiratório,Ignorado,5,2,2,9,1,1,2,2,9,9,2,1,2,1,9,1,9,2,1,9,2,9,9,1,2,1,2,2,Queixa de tontura
+,248,67,M,Branca,UTI COVID,Sem morbidades,2,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,2,9,9,9,9,1,3,2,2,1,
+,249,41,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Doença Pulmonar,4,2,2,9,2,2,9,9,9,9,1,1,2,1,9,1,1,1,2,1,2,1,9,2,9,1,2,1,Dor torácica. Asma.
+,250,31,M,Branca,Domicílio após coleta exame,Ignorado,0,2,1,9,9,9,9,9,9,9,1,9,9,1,9,1,9,1,2,9,9,9,9,9,9,9,9,9,
+,251,89,M,Parda,PA/PS  Respiratório,Sem morbidades,0,2,1,9,9,9,9,9,9,9,9,1,9,1,9,9,9,9,9,1,9,9,9,9,9,9,9,9,sibilos audíveis
+,252,48,M,Parda,Domicílio após coleta exame,Diabetes,9,2,9,9,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,2,9,9,2,
+,253,57,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Outras,3,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,254,52,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,9,9,9,9,9,9,9,9,9,1,9,1,9,9,9,9,9,9,9,9,9,9,9,1,
+,255,34,F,Branca,PA/PS  Respiratório,Sem morbidades,3,2,1,9,2,2,1,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,3,dor retro-orbitaria
+,256,25,F,Branca,Domicílio após coleta exame,Sem morbidades,4,2,1,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,2,9,9,2,
+,257,54,F,Parda,PA/PS  Respiratório,"Hipertensão, Doença cardiovascular",4,2,9,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,1,9,9,9,9,2,9,2,2,2,
+,258,49,M,Branca,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,2,2,9,9,2,2,2,2,2,
+,259,34,M,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,9,2,2,1,
+,260,20,F,Parda,Domicílio após coleta exame,Sem morbidades,8,2,1,9,2,2,2,2,9,9,1,2,2,1,9,2,2,2,1,9,9,9,9,2,9,2,2,9,
+,261,22,F,Branca,Domicílio após coleta exame,Sem morbidades,5,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,
+,262,22,F,Branca,Domicílio após coleta exame,Sem morbidades,5,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,
+,263,34,M,Branca,Domicílio após coleta exame,Sem morbidades,6,2,2,2,2,1,2,2,2,2,2,2,2,1,2,1,2,1,1,2,2,2,2,2,2,2,2,1,
+,264,22,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,2,2,2,2,2,2,2,1,1,2,2,2,1,2,2,1,2,2,2,2,2,2,2,2,4,
+,265,47,F,Branca,Domicílio após coleta exame,Sem morbidades,4,2,2,2,2,2,2,2,2,2,1,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,
+,266,45,F,Parda,Domicílio após coleta exame,Sem morbidades,15,2,1,2,1,1,2,2,2,2,1,2,1,1,2,1,2,2,1,2,2,2,2,1,2,2,2,4,
+,267,53,M,Branca,Domicílio após coleta exame,Sem morbidades,4,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,1,
+,268,21,F,Ignorado,Domicílio após coleta exame,Diabetes,2,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,1,2,1,9,9,9,9,2,2,2,2,1,
+,269,50,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,2,2,2,2,2,2,2,1,1,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,3,
+,270,60,M,Branca,PA/PS  Respiratório,"Obesidade, Hipertensão, Diabetes",4,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,Dor no peito ao tossir RX Tórax: Opacidade em base direita e lobo médio
+,271,59,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,2,1,2,2,2,2,2,1,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,
+,272,72,F,Parda,PA/PS  Respiratório,"Hipertensão, Diabetes, Doença Renal, Outras",3,2,1,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,tosse produtiva na cor esbranquiçada 
+,273,20,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,2,2,2,2,2,2,2,2,1,2,2,2,1,2,2,1,2,2,2,2,2,2,2,2,1,
+,274,26,F,Branca,Domicílio após coleta exame,Sem morbidades,5,2,2,2,2,2,2,2,2,2,2,1,2,1,2,1,2,1,1,2,2,2,2,2,2,2,2,2,
+,275,46,F,Parda,Domicílio após coleta exame,"Hipertensão, Diabetes",5,2,2,2,2,2,2,2,2,2,2,1,2,1,2,1,2,1,1,2,2,2,2,2,2,2,2,1,
+,276,3,M,Parda,Domicílio após coleta exame,Outras,1,2,2,2,2,1,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,1,2,2,2,1,
+,277,50,F,Branca,Domicílio após coleta exame,Sem morbidades,4,2,2,2,2,1,2,2,2,2,2,1,2,1,2,2,2,2,1,2,2,2,2,1,2,2,2,1,
+,278,31,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,8,2,1,2,1,1,2,2,2,2,2,2,1,2,2,2,2,1,2,2,2,2,2,1,2,2,2,1,
+,279,38,M,Parda,Domicílio após coleta exame,Obesidade,6,2,2,2,2,2,2,2,2,2,9,1,1,2,2,2,2,1,2,2,2,1,2,1,2,2,2,1,
+,280,13,F,Parda,Domicílio após coleta exame,Sem morbidades,não se aplica,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,
+,281,21,M,Branca,Domicílio após coleta exame,Sem morbidades,6,2,2,2,2,2,2,2,2,2,2,1,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,4,
+,282,27,F,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,2,2,2,2,2,2,2,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,
+,283,31,M,Branca,Domicílio após coleta exame,Sem morbidades,6,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,
+,284,44,F,Branca,PA/PS  Respiratório,Sem morbidades,7,2,2,2,2,2,2,2,2,2,1,1,2,2,2,1,1,2,2,2,2,2,2,2,2,2,2,1,
+,285,25,M,Branca,Domicílio após coleta exame,Sem morbidades,6,2,2,2,2,2,2,2,2,2,1,2,2,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,
+,286,38,F,Negra,Domicílio após coleta exame,Obesidade,6,2,1,2,2,1,1,2,2,2,1,2,1,2,2,1,2,1,1,2,2,2,2,1,2,2,9,1,
+,287,64,F,Branca,PA/PS  Respiratório,"Hipertensão, Diabetes, Outras",6,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,
+,288,27,F,Branca,Domicílio após coleta exame,Doença Pulmonar,ignorado,2,2,9,2,2,2,2,9,9,2,1,2,2,9,1,2,1,2,9,9,9,9,2,2,2,2,1,
+,289,37,F,Ignorado,Domicílio após coleta exame,Ignorado,7,2,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,1,
+,290,77,M,Parda,PA/PS  Respiratório,"Hipertensão, Diabetes",2,2,9,9,9,9,9,9,9,9,2,1,1,1,9,9,9,1,9,1,9,9,9,9,3,9,9,2,
+,291,21,M,Ignorado,Domicílio após coleta exame,Doença Pulmonar,Ignorado,2,1,9,9,9,9,9,9,9,1,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1,
+,292,31,F,Branca,Domicílio após coleta exame,Sem morbidades,Ignorado,2,9,9,9,9,9,9,9,9,1,1,9,9,9,1,9,9,9,9,9,9,9,9,2,9,9,1,
+,293,33,F,Branca,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,2,9,9,1,1,1,1,9,1,2,1,1,9,9,9,9,2,2,2,2,1,Voltou para coleta após 24 horas
+,294,22,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,9,9,9,9,9,9,9,1,9,1,9,9,9,9,1,1,9,9,9,9,2,9,9,2,
+,295,27,M,Branca,Domicílio após coleta exame,Hipertensão,1,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,1,2,1,9,9,9,1,2,2,2,2,1,
+,296,50,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,1,2,2,2,2,9,2,2,1,1,9,9,9,9,1,9,2,2,1,
+,297,28,M,Ignorado,Domicílio após coleta exame,Ignorado,Ignorado,2,9,9,9,9,9,9,1,1,9,1,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,1,
+,298,27,F,Ignorado,Domicílio após coleta exame,Sem morbidades,Ignorado,2,1,9,9,9,9,9,9,9,1,1,9,9,9,9,9,9,1,9,9,9,9,9,2,9,9,2,
+,299,42,F,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,1,1,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,1,2,2,2,5,
+,300,48,M,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,301,4,M,Ignorado,Domicílio após coleta exame,Sem morbidades,Ignorado,2,2,9,2,2,1,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,302,19,F,Parda,Domicílio após coleta exame,Sem morbidades,Ignorado,2,9,9,9,9,9,9,9,9,1,9,9,1,9,9,9,9,9,9,9,9,9,9,2,9,9,1,
+,303,22,M,Parda,Domicílio após coleta exame,Sem morbidades,Ignorado,2,9,9,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,2,
+,304,7,M,Parda,Domicílio após coleta exame,Sem morbidades,Ignorado,2,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,2,9,9,2,
+,305,37,F,Ignorado,Domicílio após coleta exame,Ignorado,Ignorado,2,1,9,9,9,9,9,9,9,1,1,1,1,9,1,9,1,1,1,9,9,9,9,9,9,9,3,
+,306,30,M,Ignorado,Domicílio após coleta exame,Ignorado,Ignorado,2,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,1,
+,307,31,F,Parda,Domicílio após coleta exame,Doença Pulmonar,7,2,1,9,9,9,9,9,9,9,9,1,9,1,9,9,9,1,9,9,9,9,9,9,1,9,9,1,
+,308,27,F,Parda,Domicílio após coleta exame,Doença Pulmonar,Ignorado,2,9,9,9,9,9,9,9,9,9,1,9,9,9,1,9,1,9,9,9,9,9,9,9,9,1,1,
+,309,32,F,Parda,Domicílio após coleta exame,Doença Pulmonar,Ignorado,2,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,2,9,9,2,
+,310,23,M,Parda,Domicílio após coleta exame,Ignorado,1,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,9,9,1,2,2,Retornou em 24h para coleta
+,311,22,M,Ignorado,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,1,1,2,9,9,2,1,1,2,9,2,2,2,1,9,9,9,9,1,1,2,2,1,Coleta após 24 h
+,312,22,M,Branca,Domicílio após coleta exame,Sem morbidades,Ignorado,2,1,9,9,9,9,9,9,9,1,9,9,1,9,1,9,9,1,9,9,9,9,9,9,9,9,1,
+,313,34,F,Parda,Domicílio após coleta exame,Sem morbidades,Ignorado,2,1,9,9,2,2,2,9,9,2,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,2,
+,314,40,M,Parda,Domicílio após coleta exame,Diabetes,Ignorado,2,9,9,9,9,9,9,9,9,9,1,9,1,9,9,9,9,9,9,9,9,9,9,2,9,9,1,
+,315,25,M,Parda,Domicílio após coleta exame,Outras,1,2,2,9,9,2,2,9,9,9,2,9,9,1,9,1,9,1,2,1,9,9,9,9,2,9,9,1,
+,316,36,F,Branca,Domicílio após coleta exame,Sem morbidades,1,2,1,9,1,2,2,2,9,9,1,1,2,1,9,1,9,9,1,9,9,9,9,2,2,9,2,2,
+,317,26,M,Parda,Domicílio após coleta exame,Doença Pulmonar,Ignorado,2,9,9,9,9,9,9,9,9,1,1,9,1,9,1,9,1,9,9,9,9,9,9,2,9,9,4,
+,318,40,F,Branca,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,1,2,9,9,2,1,2,2,9,1,9,2,2,9,9,9,9,2,2,2,2,2,"aciente Covid positivo há 60 dias, realizou exame para COVID novamente no dia 31/08 com resultado positivo. A mesma relata que se recuperou dos sintomas quando obteve a primeira infecção por COVID e que há aproximadamente 1 semana começou a apresentar novamente tosse seca e cefaléia. Há 3 dias está apresentando piora dos sintomas, associado à desconforto torácico à inspiração e dispnéia aos médios e pequenos esforços. OU SEJA PEGOU PELA SEGUNDA VEZ (?) EM MENOS DE 3 MESES - nesta segunda vez foi internada"
+,319,41,F,Parda,Domicílio após coleta exame,Infecção HIV,Ignorado,2,9,9,9,9,9,9,9,9,9,1,9,1,9,9,9,1,1,9,9,9,9,9,9,9,9,2,
+,320,1,F,Parda,PA/PS  Respiratório,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,1,2,2,2,9,9,9,2,2,1,2,1,Frenquentou UBS - possível local de contaminação
+,321,26,M,Parda,PA/PS  Respiratório,Sem morbidades,0,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,9,2,9,9,9,9,2,2,1,
+,322,46,F,Parda,PA/PS  Respiratório,Obesidade,4,2,1,9,2,1,2,2,9,9,2,1,9,1,9,1,1,2,1,9,9,9,9,1,2,2,2,5,Entrada alguns dias depois no PS respiratório com dispineia 
+,323,19,M,Parda,PA/PS  Respiratório,Ignorado,5,2,9,9,9,9,1,9,9,9,9,1,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,1,
+,324,44,F,Branca,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,1,9,9,2,2,2,1,9,2,2,2,1,9,9,9,9,9,2,2,2,1,Prova laço positivo
+,325,28,M,Amarela,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,1,9,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,Dor retroorbitaria
+,326,20,M,Parda,Domicílio após coleta exame,Sem morbidades,Ignorado,2,1,9,9,9,9,9,9,9,9,1,9,1,9,9,9,1,9,9,9,9,9,9,2,9,9,1,
+,327,27,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,1,2,2,9,9,2,1,9,1,9,2,2,2,2,2,9,1,9,1,2,2,2,1,dor lombar
+,328,42,F,Branca,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,1,9,2,9,2,2,9,2,2,1,
+,329,26,F,Parda,Domicílio após coleta exame,Ignorado,Ignorado,2,2,9,1,2,1,2,1,9,1,1,1,1,9,1,1,1,1,9,9,9,9,9,9,1,2,4,Contato com SUSPEITO
+,330,46,F,Parda,Domicílio após coleta exame,Hipertensão,1,2,2,9,2,2,2,2,9,9,2,1,9,1,9,1,1,2,1,9,9,9,9,2,1,2,2,3,Outro sintoma relatado: espirros. deu entrada muito mais sintomatica dia 23/08 - testou positivo novamente
+,331,25,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,1,
+,332,33,F,Branca,PA/PS  Respiratório,Ignorado,6,2,1,9,9,9,9,9,9,9,9,1,9,1,9,1,9,9,1,9,9,9,9,9,9,9,9,2,Anosmia e Espirros
+,333,59,M,Parda,PA/PS  Respiratório,Hipertensão,1,2,1,1,2,1,2,2,9,9,1,2,1,1,9,1,1,2,1,9,9,9,9,1,3,2,2,1,
+,334,48,F,Parda,Domicílio após coleta exame,Hipertensão,7,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,1,
+,335,41,F,Parda,PA/PS  Respiratório,Sem morbidades,7,2,1,9,9,9,9,9,9,9,1,9,9,9,9,1,9,9,1,9,9,9,9,9,9,9,9,1,
+,336,60,F,Ignorado,Domicílio após coleta exame,Hipertensão,4,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,9,
+,337,27,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,1,9,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,1,9,1,2,2,2,1,
+,338,30,F,Ignorado,Domicílio após coleta exame,Sem morbidades,9,2,1,9,2,9,2,2,9,9,1,1,2,1,9,2,2,2,1,9,2,9,9,2,9,2,2,1,
+,339,63,M,Ignorado,Domicílio após coleta exame,"Doença Pulmonar, Hipertensão, Doença cardiovascular, Imunodeficiência",4,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,3,2,2,1,
+,340,37,F,Branca,PA/PS  Respiratório,Hipertensão,4,2,1,9,9,9,9,9,9,9,1,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,2,Profissional de Sáude
+,341,26,F,Parda,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,1,1,1,1,9,9,9,2,2,2,2,1,
+,342,19,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,2,9,9,9,2,2,2,2,2,
+,343,34,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,1,1,9,9,9,2,2,2,2,1,
+,344,25,F,Negra,PA/PS  Respiratório,Sem morbidades,6,2,2,9,2,9,2,2,9,9,9,1,2,2,9,2,9,1,2,9,9,9,9,2,9,2,2,2,Dor Torácica
+,345,43,F,Branca,Domicílio após coleta exame,Hipertensão,3,2,1,9,2,2,2,2,9,9,1,1,9,1,9,2,2,2,2,2,9,9,9,2,2,2,2,2,
+,346,22,M,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,1,9,1,1,2,1,9,9,2,1,2,2,9,2,2,2,1,9,9,9,9,1,2,2,2,1,
+,347,56,M,Branca,PA/PS  Respiratório,Sem morbidades,6,2,1,9,1,9,9,9,9,9,9,9,9,1,9,1,9,9,9,9,9,9,9,9,2,9,9,2,Profissional Saúde Linha de Frente
+,348,32,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,2,2,1,9,1,1,2,2,9,9,9,9,2,2,2,2,3,
+,349,27,M,Branca,Domicílio após coleta exame,Sem morbidades,4,2,1,9,1,2,1,1,9,9,1,1,2,1,9,1,1,2,1,1,9,9,9,2,2,2,2,2,Viagem Nacional
+,350,28,M,Negra,Domicílio após coleta exame,Doença Pulmonar,3,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,2,1,2,2,1,
+,351,45,M,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,1,1,9,9,2,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,4,
+,352,50,M,Parda,Domicílio após coleta exame,Sem morbidades,1,2,1,9,1,1,2,2,9,9,9,1,2,1,9,2,2,1,2,9,9,9,9,1,2,2,2,1,
+,353,32,F,Branca,PA/PS  Respiratório,Sem morbidades,4,2,2,9,2,1,2,1,9,9,1,1,1,1,9,1,2,1,1,1,9,9,9,1,1,2,2,1,
+,354,49,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,1,9,9,1,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,355,19,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,1,1,1,2,9,9,1,1,1,1,9,1,2,1,1,9,9,9,1,1,2,2,2,2,
+,356,57,M,Negra,PA/PS  Respiratório,"Obesidade, Hipertensão",3,2,1,9,2,1,2,2,9,9,9,1,1,1,9,1,1,1,2,9,9,9,9,1,2,2,2,9,
+,357,38,M,Parda,PA/PS  Respiratório,Sem morbidades,2,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,2,2,9,9,2,2,1,2,1,
+,358,36,M,Branca,Domicílio após coleta exame,Sem morbidades,1,2,2,9,9,2,9,9,9,9,1,9,9,1,9,1,9,2,1,9,9,9,9,2,3,9,9,2,
+,359,40,F,Branca,PA/PS  Respiratório,"Obesidade, Doença Pulmonar",4,2,2,9,2,2,2,2,1,1,9,1,2,2,9,1,2,1,2,2,2,2,2,2,2,2,2,1,
+,360,73,M,Branca,Domicílio após coleta exame,"Hipertensão, Doença Renal",5,2,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,1,9,9,9,9,9,2,9,9,1,doença renal = só tem um rim
+,361,26,M,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,2,9,9,2,2,2,9,9,9,1,2,2,2,2,2,2,2,2,9,9,9,2,2,2,2,1,
+,362,1,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença Neurológica, Imunodeficiência", nao se aplica - internado com outros sintomas a varios dias no Hosp - pegou covid na UTI pediatria,2,1,9,1,1,1,1,9,9,1,1,1,2,9,9,1,1,1,1,9,9,9,1,2,1,2,1,"Bebe prematuro com hidrocefalia, quadro de meningite e outros"
+,363,44,F,Branca,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,1,9,9,2,1,2,1,9,1,1,1,1,9,9,9,9,2,2,1,2,5,
+,364,26,M,Parda,Domicílio após coleta exame,Sem morbidades,8,2,1,9,9,9,9,9,9,9,9,1,9,1,9,1,9,9,9,9,9,9,9,9,2,9,9,1,
+,365,46,M,Ignorado,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,1,2,1,9,9,2,1,2,2,9,1,1,2,1,9,9,9,9,1,2,1,2,2,
+,366,38,M,Parda,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,2,2,9,1,2,2,1,9,2,2,2,1,9,9,1,9,2,2,1,2,1,
+,367,24,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,9,1,2,2,9,1,2,2,2,9,2,9,9,2,2,2,2,1,
+,368,17,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,2,9,9,9,9,9,9,1,1,9,1,1,9,9,1,1,9,9,9,9,9,2,9,9,9,
+,369,34,M,Parda,Domicílio após coleta exame,Sem morbidades,1,2,1,9,9,9,9,9,9,9,2,1,2,2,9,2,9,2,1,9,9,9,9,2,2,9,9,1,
+,370,34,F,Branca,Domicílio após coleta exame,Sem morbidades,2,2,1,2,9,1,9,9,9,9,9,1,9,9,9,1,9,9,1,9,9,9,9,1,2,9,9,1,
+,371,39,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,9,9,1,9,9,9,9,1,9,9,9,1,9,9,9,9,9,9,9,9,2,9,9,1,
+,372,21,M,Parda,PA/PS  Respiratório,Sem morbidades,4,2,2,9,2,1,1,2,9,2,1,1,1,1,9,1,1,2,1,9,9,9,9,1,1,2,2,1,
+,373,47,F,Parda,PA/PS  Respiratório,Doença Pulmonar,21,2,1,9,9,9,9,9,9,9,9,1,9,9,9,1,9,1,1,9,9,9,9,9,2,9,9,1,
+,374,19,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,9,
+,375,32,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,1,9,2,2,9,9,1,1,2,1,9,1,2,1,1,9,9,9,9,9,2,2,2,1,
+,376,34,M,Branca,Domicílio após coleta exame,Sem morbidades,2,2,1,9,9,9,9,9,9,9,9,1,9,9,9,1,9,9,9,9,9,9,9,9,2,9,9,1,
+,377,23,F,Parda,PA/PS  Respiratório,Sem morbidades,5,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,Dor no tórax ventilatório-dependente e que piora c/ a tosse
+,378,81,M,Parda,Óbito,"Hipertensão, Outras",Ignorado,2,1,9,2,2,2,2,9,9,2,2,1,2,9,1,1,1,2,9,1,1,9,2,1,2,2,1,"Dessaturando, triagem intercostal e tontura"
+,379,74,F,Branca,PA/PS  Respiratório,"Hipertensão, Diabetes",2,2,2,9,2,2,2,2,9,9,1,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1, Dor torácica sem irradiação (queimação)
+,380,32,F,Branca,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,1,9,1,1,2,1,9,2,2,1,1,1,9,9,9,2,2,2,2,2,
+,381,31,F,Branca,PA/PS  Respiratório,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,dor em região frontotemporal esquerda
+,382,31,F,Parda,Domicílio após coleta exame,Sem morbidades,7,9,2,9,2,2,2,2,9,9,1,1,1,2,9,2,2,2,2,1,9,9,9,2,2,2,2,2,
+,383,19,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,2,2,2,2,2,2,2,1,2,1,1,2,1,2,1,1,2,2,2,2,2,2,2,2,1,
+,384,49,F,Parda,Domicílio após coleta exame,Doença cardiovascular,4,2,2,2,2,2,2,2,2,2,1,1,2,1,2,1,1,2,1,2,2,2,2,2,2,2,2,2,
+,385,14,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,2,2,2,2,2,2,2,1,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+,386,44,F,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,2,2,1,2,2,2,2,2,1,1,2,1,2,2,2,1,1,2,2,2,2,2,2,2,2,1,
+,387,47,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,2,2,1,2,2,2,2,1,2,2,1,2,2,2,1,1,2,2,2,2,1,2,2,2,1,
+,388,46,F,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,2,2,2,2,2,2,2,1,1,1,1,2,1,2,2,1,2,2,2,2,2,2,2,2,1,
+,389,40,F,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,2,2,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,2,2,2,2,2,1,2,2,
+,390,79,F,Ignorado,Óbito,Doença Neurológica,5,2,1,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,
+,391,42,M,Parda,PA/PS  Respiratório,Doença Pulmonar,6,2,1,2,2,1,2,2,2,2,1,1,2,1,2,2,2,1,1,2,2,2,2,1,2,2,2,1,
+,392,16,F,Parda,Domicílio após coleta exame,Obesidade,6,2,2,2,2,2,2,2,2,2,1,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,
+,393,52,F,Parda,PA/PS  Respiratório,Sem morbidades,7,2,1,2,1,1,1,2,2,2,1,1,1,2,2,1,1,1,1,2,2,2,2,1,2,2,2,4,
+,394,27,F,Branca,Domicílio após coleta exame,Sem morbidades,8,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,
+,395,44,M,Parda,Domicílio após coleta exame,Hipertensão,6,2,2,2,2,2,2,2,2,2,2,1,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,5,
+,396,51,F,Ignorado,Domicílio após coleta exame,Diabetes,6,2,2,2,2,2,1,2,2,2,1,2,2,1,2,2,2,2,1,2,2,2,2,2,2,2,2,1,
+,397,17,F,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,2,2,2,2,2,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,
+,398,23,M,Ignorado,PA/PS  Respiratório,Sem morbidades,ignorado,2,1,9,2,2,1,2,9,9,1,1,2,2,9,2,2,2,2,9,9,9,2,2,2,2,2,1,etnia/raça não informado
+,399,41,M,Ignorado,Domicílio após coleta exame,"Hipertensão, Doença cardiovascular",5,2,2,2,2,2,2,2,2,2,2,2,1,1,2,1,2,1,1,2,2,2,2,2,2,2,2,1,
+,400,22,F,Branca,Domicílio após coleta exame,Sem morbidades,7,2,1,2,2,2,2,2,1,2,1,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,
+,401,35,F,Branca,Domicílio após coleta exame,Sem morbidades,ignorado,2,2,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,9,
+,402,25,F,Branca,Domicílio após coleta exame,Sem morbidades,9,2,2,2,2,2,1,2,2,2,1,1,2,1,2,1,1,2,2,2,2,2,2,2,2,2,2,2,
+,403,31,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,9,2,2,2,1,2,2,2,2,2,2,1,2,2,2,2,1,2,2,1,2,2,2,2,2,1,
+,404,38,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,2,2,2,2,2,2,2,2,1,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,1,
+,405,45,M,Amarela,Domicílio após coleta exame,Sem morbidades,2,2,2,9,1,2,2,2,9,9,1,2,1,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,raça/cor amarela
+,406,51,F,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,1,2,2,2,2,2,2,2,1,1,2,2,2,1,2,2,1,2,2,2,2,2,2,2,2,1,
+,407,34,F,Parda,Domicílio após coleta exame,Outras,5,2,1,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,Outras morbidades: anemia crônica; raça/cor: parda
+,408,56,F,Parda,Domicílio após coleta exame,"Obesidade, Hipertensão",2,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,409,29,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,1,2,9,9,2,1,2,2,9,2,2,2,2,9,9,9,9,9,2,2,2,2,raça/cor: não informado
+,410,31,M,Parda,Domicílio após coleta exame,Sem morbidades,,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,1,2,2,9,9,9,9,2,2,2,2,1,raça/cor: parda
+,411,59,F,Parda,Domicílio após coleta exame,Hipertensão,12,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,raça/cor: parda
+,412,50,M,Parda,PA/PS  Respiratório,Sem morbidades,4,2,2,9,1,2,2,2,9,9,1,1,2,1,9,1,2,2,2,1,9,9,9,2,2,2,1,2,raça/cor: parda
+,413,24,M,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,2,2,1,9,1,2,2,2,9,9,9,9,9,1,1,2,1,raça/cor: não informado
+,414,22,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,1,1,1,9,9,9,9,2,2,2,2,2,raça/cor: parda
+,415,73,F,Parda,Domicílio após coleta exame,"Obesidade, Hipertensão, Diabetes, Doença cardiovascular",4,2,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,2,2,9,9,9,9,2,1,1,2,2,
+,416,25,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,417,25,M,Parda,PA/PS  Respiratório,Sem morbidades,ignorado,2,1,1,2,1,2,2,9,9,1,2,2,1,9,2,2,2,2,9,9,9,9,1,1,2,2,2,raça/cor: parda
+,418,30,F,Branca,PA/PS  Respiratório,Doença Pulmonar,3,2,1,9,2,2,2,2,9,9,2,1,2,2,9,1,2,2,2,9,9,1,9,2,2,2,2,2,"Tosse secretiva e dor torácica,"
+,419,52,M,Parda,PA/PS  Respiratório,Hipertensão,3,2,1,9,2,2,2,2,9,9,1,1,1,1,9,1,2,2,1,1,9,9,9,2,2,2,2,1,raça/cor: parda
+,420,38,F,Branca,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,1,9,1,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,2,
+,421,41,F,Branca,PA/PS  Respiratório,Sem morbidades,7,2,1,9,1,1,1,2,9,9,1,1,1,1,9,1,1,2,2,9,9,9,9,1,2,2,2,1,reaça/cor: branca
+,422,54,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,1,1,1,1,9,9,1,1,1,1,9,1,1,1,1,9,1,9,9,1,9,1,1,9,
+,423,26,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,Dor retro-orbitaria
+,424,17,F,Branca,PA/PS  Respiratório,Sem morbidades,7,2,1,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,1,cor/raça: branca
+,425,9,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,9,2,9,9,1,2,2,2,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,426,27,F,Branca,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,427,57,F,Branca,PA/PS  Respiratório,"Hipertensão, Neoplasia",3,2,9,9,1,2,2,2,9,9,1,1,2,1,9,1,1,1,1,9,9,9,9,9,2,1,2,1,raça/cor: branca
+,428,33,M,Branca,Domicílio após coleta exame,Sem morbidades,ignorado,2,2,9,2,2,2,2,9,9,1,2,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,3,
+,429,30,M,Branca,Domicílio após coleta exame,Sem morbidades,5,2,1,9,1,2,2,2,1,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,2,
+,430,49,F,Parda,PA/PS  Respiratório,Outras,5,2,2,9,2,2,2,2,9,9,2,2,1,1,9,2,2,1,2,9,9,9,9,2,1,1,2,1,etilista pesada
+,431,66,M,Parda,PA/PS  Respiratório,Hipertensão,2,2,1,9,2,2,2,2,9,9,2,2,1,1,9,2,2,1,1,9,9,9,9,2,1,1,2,1,
+,432,57,F,Branca,PA/PS  Respiratório,"Hipertensão, Neoplasia",3,2,9,9,1,2,2,2,9,9,1,1,2,1,9,1,1,1,1,9,9,9,9,9,2,1,2,1,raça/cor: branca
+,433,25,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,9,2,2,2,"Não sabe o nome do contato confirmado, bairro Três Lagoas."
+,434,52,F,Parda,Domicílio após coleta exame,Obesidade,10,2,2,9,2,2,2,2,9,9,2,1,1,1,9,1,2,1,1,1,1,9,9,2,2,2,2,1,raça/cor: parda
+,435,38,F,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,1,9,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,2,Outros sintomas: espirros; Não soube informar o nome do contato confirmado; Transporte coletivo da Lar.
+,436,31,F,Parda,Domicílio após coleta exame,Sem morbidades,2,1,2,9,2,2,1,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,3,2,2,4,Raça/cor: parda
+,437,26,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,1,raça/cor: branca
+,438,34,F,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,2,9,9,9,9,2,1,2,2,9,cor/raça: parda
+,439,1,F,Ignorado,PA/PS  Respiratório,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,1,1,2,9,9,9,9,9,2,2,2,1,
+,440,65,F,Branca,Domicílio após coleta exame,"Obesidade, Hipertensão, Diabetes",1,2,1,9,2,1,2,1,9,9,1,1,1,1,9,2,2,1,1,9,9,9,9,1,2,1,2,2,raça/cor: branca
+,441,32,M,Parda,Domicílio após coleta exame,Ignorado,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,1,1,1,1,9,9,9,2,9,1,2,2,cor/raça: parda
+,442,65,F,Parda,Domicílio após coleta exame,"Hipertensão, Diabetes",3,2,1,9,1,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,raça/cor: parda
+,443,47,F,Ignorado,PA/PS  Respiratório,Sem morbidades,3,2,1,9,1,1,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,1,2,2,2,2,
+,444,24,M,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,2,2,2,9,1,1,2,2,9,9,9,9,2,2,2,2,3,
+,445,67,F,Branca,Domicílio após coleta exame,"Obesidade, Doença Pulmonar, Hipertensão, Doença cardiovascular",1,2,2,9,2,2,2,2,2,9,2,2,1,1,9,2,2,1,2,9,9,9,9,2,3,2,2,1,
+,446,44,M,Branca,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,9,2,2,9,9,1,1,9,1,9,1,2,2,2,9,9,2,9,9,2,2,2,9,
+,447,56,F,Parda,Domicílio após coleta exame,Imunodeficiência,2,2,2,9,2,2,2,2,9,9,9,1,1,1,9,2,2,2,1,9,9,9,9,2,2,2,2,9,
+,448,40,M,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,2,2,2,2,2,9,9,9,1,2,1,9,2,2,1,1,9,9,9,9,2,2,2,2,2,Hepatite B
+,449,30,F,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,1,9,9,9,9,9,9,9,9,1,9,1,9,9,9,1,9,9,9,9,9,9,9,9,9,9,
+,450,69,M,Parda,UTI COVID,Sem morbidades,5,2,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,1,2,9,9,9,9,2,3,2,2,1,
+,451,57,F,Parda,Domicílio após coleta exame,Hipertensão,6,2,1,9,9,9,9,9,9,9,1,9,9,9,9,1,9,9,1,9,9,1,9,9,9,9,9,1,
+,452,39,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,1,2,9,9,2,2,2,1,9,1,2,2,2,9,9,9,9,2,9,2,2,2,
+,453,35,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,9,2,2,2,
+,454,42,M,Parda,Domicílio após coleta exame,Sem morbidades,6,2,1,9,2,2,2,2,9,9,2,1,1,1,9,2,2,2,1,9,9,9,9,2,2,1,2,2,prurido
+,455,41,F,Branca,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,2,9,9,9,2,2,2,2,9,
+,456,23,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,9,9,9,9,9,9,9,9,1,1,9,1,9,9,9,9,1,9,9,9,9,9,2,9,9,3,
+,457,30,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,458,29,F,Parda,PA/PS  Respiratório,Sem morbidades,5,2,1,9,2,2,2,2,9,9,1,1,2,2,2,2,2,2,1,2,9,9,9,2,2,2,2,2,
+,459,39,M,Parda,Domicílio após coleta exame,Sem morbidades,6,2,1,9,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,2,
+,460,40,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,2,
+,461,26,M,Branca,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,2,2,1,9,2,2,2,1,9,9,9,9,2,9,2,2,1,
+,462,32,F,Parda,PA/PS  Respiratório,Hipertensão,8,2,9,9,1,1,2,2,9,9,1,1,1,1,9,2,2,1,2,9,1,1,9,1,2,2,2,1,
+,463,25,M,Branca,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,1,9,9,2,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,464,73,F,Parda,Óbito,"Obesidade, Hipertensão, Diabetes, Outras",ignorado,2,1,9,2,2,2,2,9,9,2,2,2,2,9,2,2,1,2,9,9,9,9,2,1,2,2,9, Sat O² 76%. Uso de musculatura acessória.  HD: Sepse de foco pulmonar
+,465,33,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,1,9,9,9,9,2,2,2,2,1,"dispnéia aos minimos esforços. Mialgia Generalizada. TC de tórax com infiltrados em vidro fosco, bilateralmente, afentando mais de 50% dos campos pulmonares."
+,466,29,M,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,1,2,9,9,1,1,2,2,9,1,2,2,1,1,9,9,9,2,2,2,2,1,
+,467,50,F,Parda,Domicílio após coleta exame,Hipertensão,5,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,"Dor torácica relacionada à tosse, dor dorsal, hipogeusia."
+,468,82,F,Parda,Óbito,Ignorado,4,2,2,2,9,9,2,9,9,9,9,9,1,2,9,9,9,2,9,9,1,1,9,9,9,9,9,9,
+,469,53,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Diabetes, Doença cardiovascular, Doença Renal",2,2,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,1,2,9,9,9,9,2,2,2,2,1,
+,470,30,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,9,9,2,2,9,9,1,9,1,9,2,9,9,1,2,1,2,9,9,9,9,2,9,9,2,2,
+,471,31,M,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,1,2,1,2,2,9,1,2,2,2,9,9,1,9,2,2,2,2,1,raça/cor: não informado
+,472,23,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,473,35,F,Branca,PA/PS  Respiratório,Sem morbidades,5,2,1,9,1,1,1,1,9,9,1,1,1,1,9,1,2,1,1,9,9,9,9,1,1,2,2,2,cor/raça: branca
+,474,60,F,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,9,9,9,9,9,9,9,9,1,1,9,1,9,9,9,9,1,1,1,9,9,9,9,9,9,1,
+,475,22,F,Branca,Domicílio após coleta exame,Doença Pulmonar,1,2,1,9,2,2,2,2,9,9,2,1,1,2,9,1,1,2,1,9,9,9,9,2,2,2,2,1,raça/cor: branca
+,476,53,F,Ignorado,Domicílio após coleta exame,"Hipertensão, Diabetes",1,2,2,9,2,1,1,2,9,9,2,1,1,1,9,2,2,2,2,9,1,9,9,1,2,2,2,1,
+,477,29,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,1,2,2,2,9,9,2,1,1,1,9,2,1,2,1,1,9,9,9,2,2,2,2,1,raça/cor: não informada
+,478,45,M,Ignorado,Domicílio após coleta exame,Ignorado,3,2,1,9,2,1,2,2,9,9,2,1,2,1,9,2,2,1,1,1,9,9,9,1,9,2,1,9,raça/cor: não informado
+,479,27,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,1,2,9,9,1,1,1,1,9,1,2,2,1,9,9,9,9,2,2,1,2,2,raça/cor: parda
+,480,34,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,1,2,9,9,2,1,2,1,9,1,2,1,1,9,9,9,9,9,2,2,2,1,
+,481,22,M,Ignorado,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,2,9,9,1,1,1,2,9,1,1,2,1,1,9,9,9,2,2,9,2,1,
+,482,39,M,Branca,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,1,1,9,9,1,1,2,1,9,1,2,2,1,1,9,9,9,2,2,2,2,2,raça/cor: branca
+,483,25,M,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,RAÇA/COR: NÃO INFORMADA
+,484,45,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,9,9,9,1,1,9,1,9,1,1,2,1,9,9,9,9,2,1,2,2,4,Acromegalia
+,485,27,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,1,1,2,9,2,2,2,1,9,9,9,9,2,9,2,2,4,
+,486,52,M,Parda,UTI COVID,Hipertensão,8,2,1,9,2,1,9,9,1,1,2,9,2,1,9,2,9,1,2,1,9,9,9,1,1,9,2,9,
+,487,20,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,1,2,1,1,2,9,9,1,1,1,2,9,1,2,1,1,9,9,9,9,2,2,2,2,4,cor/raça: parda
+,488,31,M,Branca,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,1,2,9,9,1,2,2,2,9,1,2,2,2,9,9,9,9,2,2,2,2,3,raça/cor: branca
+,489,20,F,Parda,PA/PS  Respiratório,Doença Pulmonar,7,2,2,9,2,2,1,2,9,9,2,1,2,1,9,1,2,1,1,9,9,9,9,1,2,2,2,9,Raça/cor: parda
+,490,28,M,Parda,Domicílio após coleta exame,Infecção HIV,5,2,9,9,9,9,9,9,9,9,9,1,9,2,9,1,9,1,9,9,9,9,9,9,9,9,9,4,
+,491,23,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,9,9,9,9,9,9,9,9,9,9,9,1,9,9,9,1,9,9,9,9,9,9,9,9,9,1,
+,492,25,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,2,9,1,1,1,1,9,1,2,2,2,9,9,9,9,2,9,2,2,4,
+,493,45,F,Branca,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,1,2,1,9,9,9,9,2,9,2,2,2,
+,494,29,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,9,9,9,9,9,9,9,9,9,1,1,1,9,1,9,9,9,1,9,9,9,9,9,9,9,2,
+,495,20,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,1,1,1,9,1,9,2,1,9,9,9,9,2,9,2,2,1,
+,496,38,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,9,9,9,9,9,9,9,9,1,9,9,1,9,1,9,9,1,9,9,9,9,9,2,9,9,1,
+,497,59,F,Branca,Domicílio após coleta exame,Doença cardiovascular,5,2,1,9,2,2,2,2,9,9,2,2,1,2,9,2,1,2,1,9,9,9,9,2,9,2,2,9,
+,498,6,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,499,35,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,2,2,2,2,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,500,36,M,Branca,PA/PS  Respiratório,Ignorado,2,2,1,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,4,
+,501,48,M,Branca,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,9,9,9,1,1,2,1,1,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,502,46,F,Parda ,UTI COVID,Sem morbidades,ignorado,2,1,9,2,1,1,2,9,9,2,1,1,1,9,2,2,1,1,9,9,9,9,1,2,2,2,2,Raça/cor: parda
+,503,28,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,504,20,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,1,2,2,1,9,9,9,2,2,2,2,2,
+,505,42,F,Ignorado,Domicílio após coleta exame,"Doença cardiovascular, Doença Neurológica",4,2,2,9,2,2,2,2,9,9,1,1,1,1,9,1,2,2,2,1,9,9,9,2,2,2,2,3,raça/cor: não informado
+,506,40,M,Branca,Domicílio após coleta exame,Hipertensão,ignorado,2,1,9,2,2,2,2,9,9,2,1,2,2,2,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,507,65,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,2,9,1,1,2,1,9,9,9,9,2,1,2,2,1,
+,508,25,F,Branca,PA/PS  Respiratório,Sem morbidades,ignorado,2,1,9,1,1,9,9,9,9,2,9,1,2,9,1,2,2,1,9,9,9,9,1,2,9,2,3,Raça/cor: branca
+,509,45,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,2,9,9,9,9,2,1,2,2,2,
+,510,57,F,Branca,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,511,29,M,Parda,PA/PS  Respiratório,Sem morbidades,ignorado,2,9,9,9,9,9,9,9,9,9,1,9,1,9,1,9,1,1,9,9,9,9,9,2,9,9,2,Raça/cor: parda
+,512,48,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,9,2,2,2,9,9,1,1,9,1,9,1,2,2,2,9,9,9,9,1,2,2,2,2,
+,513,47,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Hipertensão,6,2,1,9,2,2,2,1,9,9,1,1,2,2,9,1,2,1,1,1,9,9,9,2,2,2,2,2,Tosse mucopurulenta
+,514,22,M,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,4,raça/cor: não informada
+,515,40,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,516,26,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,1,2,9,9,1,1,1,1,9,1,2,1,2,1,9,9,9,2,2,2,2,2,
+,517,49,,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,1,9,1,2,2,2,9,9,1,1,2,1,9,2,2,2,1,1,9,9,9,2,2,2,2,5,
+,518,23,F,Ignorado,PA/PS  Respiratório,Sem morbidades,3,2,1,9,9,2,9,9,9,9,1,1,9,1,9,1,9,9,1,9,9,9,9,2,2,9,9,1,Raça/cor: não informado
+,519,44,M,Branca,PA/PS  Respiratório,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,2,9,9,9,9,2,3,2,2,2," tosse produtiva com secreção esbranquiçada, otalgia, otorreia "
+,520,25,F,Parda,Domicílio após coleta exame,Sem morbidades,ignorado,2,9,9,9,9,9,9,9,9,1,9,9,1,9,1,9,9,9,9,9,9,9,9,2,9,9,2,raça/cor: parda
+,521,64,M,Branca,UTI COVID,Outras,2,2,1,1,1,1,2,1,9,9,1,1,2,1,9,1,2,1,2,9,1,9,9,1,2,2,2,1,raça/cor: branca; outras morbidades: doença hepática
+,522,23,F,Parda,PA/PS  Respiratório,Sem morbidades,3,2,1,9,9,9,1,9,1,9,2,1,9,1,9,2,9,1,9,9,1,9,1,9,2,9,9,2,raça/cor: parda
+,523,29,M,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,1,2,1,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,1,2,2,2,2,raça/cor: não informado
+,524,34,F,Branca,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,525,41,F,Parda,PA/PS  Respiratório,Sem morbidades,3,2,2,9,2,2,1,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,526,38,F,Parda,Domicílio após coleta exame,Sem morbidades,6,2,2,1,2,1,2,2,9,9,2,1,2,1,9,1,1,1,2,9,9,9,9,1,2,2,2,9,raça/cor: parda
+,527,50,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Obesidade, Doença Pulmonar, Hipertensão",5,2,2,9,2,2,2,1,9,9,2,1,2,1,9,2,2,1,2,9,9,9,1,1,3,2,2,1,Dor retro-orbitaria
+,528,48,F,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,2,1,1,1,9,9,9,2,2,2,2,2,
+,529,31,M,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,1,2,2,9,1,2,1,1,9,9,9,9,2,2,2,2,1,
+,530,22,F,Parda,Domicílio após coleta exame,Sem morbidades,ignorado,2,2,9,2,2,2,2,9,9,1,1,1,1,9,1,2,1,1,9,9,9,9,2,2,2,2,1,
+,531,26,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,1,1,9,2,9,1,2,1,1,9,9,9,9,2,2,2,2,2,
+,532,21,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,1,1,2,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,2,
+,533,37,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,534,28,M,Branca,Domicílio após coleta exame,Sem morbidades,3,2,1,9,1,1,2,2,9,9,2,1,2,1,9,2,2,1,1,9,9,9,9,1,1,1,1,1,raça/cor: branca
+,535,28,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,1,2,2,2,9,9,2,1,1,2,9,1,1,2,2,9,9,9,9,2,9,2,2,1,
+,536,30,F,Branca,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,1,2,2,9,9,1,1,2,1,9,1,1,2,2,9,9,9,9,9,2,2,2,1,raça/cor: branca
+,537,34,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,1,9,9,2,1,1,1,9,1,2,2,2,9,2,9,9,2,9,2,2,2,
+,538,1,M,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,2,9,9,9,9,2,2,1,2,1,
+,539,36,F,Branca,PA/PS  Respiratório,Diabetes,6,2,2,9,2,2,2,2,1,1,2,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,cor/raça: branca
+,540,45,M,Ignorado,PA/PS  Respiratório,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,2,9,1,2,1,1,9,9,9,9,2,2,2,2,1,
+,541,52,F,Branca,Domicílio após coleta exame,Sem morbidades,8,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,1,2,2,2,9,
+,542,24,M,Parda,PA/PS  Respiratório,Ignorado,4,2,1,9,2,1,1,2,9,9,2,1,2,2,9,2,2,2,2,9,9,9,9,1,9,2,2,1,raça/cor: parda
+,543,52,M,Branca,Domicílio após coleta exame,Sem morbidades,nao registrado,2,1,9,2,2,2,2,9,9,2,1,1,1,9,2,2,1,2,9,9,9,9,2,2,2,2,1,
+,544,32,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,5,
+,545,63,F,Branca,UTI COVID,Diabetes,3,2,2,9,1,1,2,2,9,9,2,2,2,1,9,2,1,1,2,9,1,1,9,1,9,2,2,5,
+,546,65,M,Parda,Domicílio após coleta exame,Sem morbidades,ignorado,2,9,9,9,9,9,9,9,9,1,9,9,1,9,1,9,9,9,9,9,9,9,9,2,9,9,2,raça/cor: parda
+,547,31,M,Branca,Domicílio após coleta exame,Sem morbidades,ignorado,2,9,9,9,9,9,9,9,9,1,9,9,1,9,1,9,9,9,9,9,9,9,9,2,9,9,2,raça/cor: branca
+,548,1 mes,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,2,2,1,9,1,1,2,2,9,9,9,9,2,2,2,2,1,
+,549,24,F,Ignorado,Domicílio após coleta exame,Ignorado,6,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,2,2,9,9,9,2,2,2,2,2,
+,550,59,F,Branca,Domicílio após coleta exame,"Hipertensão, Diabetes",5,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,1,
+,551,40,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,1,1,1,2,2,2,1,1,1,9,9,9,2,2,2,1,2,Hiponosomia
+,552,33,F,Parda,Domicílio após coleta exame,Outras,4,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,1,9,9,9,2,2,2,2,5,
+,553,29,F,Branca,Domicílio após coleta exame,Outras,3,2,2,9,2,2,2,1,9,9,2,1,1,2,9,1,1,2,2,1,9,9,9,2,2,2,1,2,HIPOSMIA
+,554,19,F,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,1,1,2,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,555,45,F,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,1,1,1,9,9,9,2,2,1,2,1,dor toracica ao tossir
+,556,55,F,Branca,Domicílio após coleta exame,Hipertensão,5,2,1,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,2,
+,557,4,M,Branca,Domicílio após coleta exame,Doença Neurológica,6,2,1,9,2,2,2,2,2,2,1,2,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,558,27,F,Branca,Domicílio após coleta exame,Ignorado,5,2,2,9,2,2,2,1,9,9,1,2,2,2,9,2,2,2,1,9,9,9,9,2,9,2,2,1,Dor retro-orbital
+,559,67,M,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,1,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,2,
+,560,61,F,Branca,PA/PS  Respiratório,"Hipertensão, Diabetes, Doença cardiovascular",2,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,1,2,2,9,9,1,9,2,2,2,2,2,Dorsalgia
+,561,33,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,1,9,9,9,2,2,2,2,5,
+,562,35,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,1,1,1,9,9,9,2,2,2,2,1,
+,563,20,F,Parda,PA/PS  Respiratório,Sem morbidades,5,2,2,9,2,2,2,2,9,9,1,1,1,1,9,1,2,1,2,9,9,9,9,2,1,2,2,1,
+,564,51,M,Branca,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,2,2,9,9,9,9,2,2,2,2,
+,565,23,M,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,1,2,9,9,1,1,2,2,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,566,5 meses,F,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,2,2,9,9,2,2,2,2,9,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,567,29,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,568,23,F,Ignorado,Domicílio após coleta exame,Outras,5,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,569,58,F,Parda,Domicílio após coleta exame,"Hipertensão, Diabetes",5,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,2,1,9,9,9,2,2,2,2,2,
+,570,65,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,1,2,2,2,9,1,2,2,2,9,9,9,9,2,1,2,2,1,
+,571,19,F,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,572,76,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença cardiovascular, Doença Neurológica",6,2,1,9,2,2,2,2,9,9,2,2,1,1,9,2,2,1,2,9,9,9,9,2,1,1,2,1,
+,573,46,F,Parda,PA/PS  Respiratório,Doença Pulmonar,3,2,2,9,2,2,2,2,2,2,1,1,1,1,9,1,2,1,1,1,9,9,9,2,1,2,2,1,
+,574,20,F,Índio,Domicílio após coleta exame,Doença Pulmonar,4,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,1,9,9,9,2,2,2,2,2,
+,575,67,M,Branca,PA/PS  Respiratório,Hipertensão,6,2,1,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,1,1,9,9,9,2,2,2,2,1,
+,576,22,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,1,2,2,9,9,2,1,2,1,9,1,2,2,2,9,9,9,9,1,1,2,1,2,
+,577,30,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,1,2,2,9,1,2,2,2,9,9,9,9,2,2,2,2,5,
+,578,5 meses,F,Branca,PA/PS  Respiratório,Sem morbidades,3,2,1,9,2,2,1,2,9,9,2,2,2,2,9,1,2,1,2,9,9,9,9,2,2,2,2,1,
+,579,64,F,Branca,Domicílio após coleta exame,"Hipertensão, Diabetes, Outras",8,2,2,9,2,1,1,2,9,9,2,1,1,2,9,1,2,1,1,1,9,9,9,1,2,2,2,1,
+,580,45,M,Parda,PA/PS  Respiratório,Doença Pulmonar,5,2,1,9,1,1,2,2,9,9,1,1,1,1,9,1,1,1,1,1,9,9,9,1,3,2,2,1,
+,581,25,M,Branca,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,1,2,9,9,1,1,1,1,9,1,2,2,1,9,9,9,9,2,1,2,2,1,
+,582,29,F,Parda,Domicílio após coleta exame,Sem morbidades,6,1,2,9,2,2,2,2,9,9,2,1,2,2,9,1,2,1,2,9,9,9,1,2,2,2,2,2,
+,583,53,F,Branca,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,1,2,2,9,9,1,1,1,1,9,1,2,2,1,9,9,9,2,1,2,2,2,2,
+,584,46,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Infecção HIV, Doença Renal, Outras",2,2,1,9,2,2,1,2,9,9,2,1,2,1,9,1,2,1,1,1,9,9,9,2,1,2,2,1,Dor no peito ao tossir
+,585,46,F,Parda,PA/PS  Respiratório,Outras,3,2,1,9,1,2,1,2,9,1,1,1,1,1,9,1,2,1,2,9,9,9,9,2,2,2,2,1,
+,586,23,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,3,
+,587,34,F,Branca,Domicílio após coleta exame,Sem morbidades,9,2,2,9,2,2,2,2,9,9,1,2,1,2,9,2,2,2,2,1,2,9,9,2,2,2,1,1,
+,588,8,F,Parda,PA/PS  Respiratório,Doença Pulmonar,1,2,1,9,2,2,2,2,9,9,1,2,2,2,9,1,2,1,1,9,9,9,9,2,2,2,2,2,
+,589,40,F,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,590,47,F,Branca,PA/PS  Respiratório,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,3,
+,591,21,M,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,1,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,cianose
+,592,24,F,Branca,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,2,9,9,9,9,2,9,2,2,1,
+,593,19,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,1,9,9,9,2,1,2,2,2,
+,594,46,F,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,2,2,2,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,595,19,M,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,1,9,9,9,1,9,9,9,1,1,9,1,9,9,9,1,9,9,9,9,9,9,1,9,9,1,
+,596,22,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,9,9,9,9,9,9,9,9,9,9,9,1,9,1,9,9,1,9,9,9,9,9,9,9,9,2,
+,597,50,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,2,1,9,9,9,2,2,2,2,2,
+,598,41,M,Branca,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,2,
+,599,33,M,Branca,Domicílio após coleta exame,Sem morbidades,5,2,2,9,1,9,2,2,9,9,1,1,2,1,9,1,1,2,1,9,9,9,9,9,2,2,2,2,
+,600,49,F,Parda,Domicílio após coleta exame,Ignorado,4,2,1,9,2,1,1,2,9,9,2,1,2,1,9,2,2,1,1,9,9,9,9,1,9,2,2,2,
+,601,21,F,Parda,Domicílio após coleta exame,Ignorado,4,2,1,9,2,2,1,9,9,9,1,1,2,1,9,1,9,1,1,9,9,9,1,2,9,9,2,2,
+,602,34,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,2,9,2,9,1,2,2,1,9,9,9,9,2,1,2,1,4,
+,603,65,F,Parda,Domicílio após coleta exame,Hipertensão,4,2,2,9,2,2,2,2,9,9,9,1,9,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,604,62,F,Parda,Óbito,Sem morbidades,2,2,2,9,2,2,2,2,9,9,2,2,9,1,9,2,2,1,2,9,9,9,9,2,2,2,2,1,
+,605,34,M,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,1,1,9,1,9,2,2,2,1,9,9,9,9,2,2,2,2,2,
+,606,45,M,Ignorado,Domicílio após coleta exame,Doença cardiovascular,5,2,1,9,2,2,2,2,9,9,1,1,9,1,9,1,2,1,2,9,9,9,9,2,1,2,2,2,
+,607,34,F,Branca,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,1,2,2,9,9,2,2,9,2,9,2,2,2,1,9,9,9,9,1,2,2,2,2,
+,608,33,M,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,1,9,1,9,2,2,1,2,9,9,9,9,2,1,2,2,1,
+,609,40,M,Parda,Domicílio após coleta exame,"Obesidade, Hipertensão",4,2,1,9,2,2,2,2,9,9,1,2,9,1,9,2,2,9,2,9,9,9,9,2,2,2,2,2,
+,610,64,F,Parda,Domicílio após coleta exame,"Hipertensão, Diabetes",Ignorado,2,2,9,1,2,2,2,9,9,1,1,9,9,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,611,35,M,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,1,2,9,9,1,1,9,1,9,1,2,1,1,9,9,9,9,2,2,2,2,1,
+,612,33,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,1,2,2,2,9,9,1,1,9,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,613,19,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,1,2,1,2,1,2,2,2,1,9,9,9,2,1,2,2,2,
+,614,23,F,Branca,PA/PS  Respiratório,Ignorado,5,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,1,9,9,9,9,2,9,2,2,2,
+,615,21,M,Branca,PA/PS  Respiratório,Doença Pulmonar,1,2,1,9,1,2,2,2,9,9,2,1,2,1,9,1,1,1,1,1,9,9,9,2,1,2,2,2, Dor no peito com pressão com dor à inspiração
+,616,45,M,Parda,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,617,68,M,Parda,PA/PS  Respiratório,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,5,
+,618,25,F,Parda,PA/PS  Respiratório,Sem morbidades,3,2,1,9,2,1,1,2,9,9,2,1,2,1,9,2,2,1,1,1,9,1,9,2,2,2,2,1,"lacrimeja mento e ardência ocular, disfagia e dor no torax"
+,619,31,M,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,1,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,620,36,M,Parda,PA/PS  Respiratório,Sem morbidades,1,2,1,9,1,2,1,2,9,9,1,1,2,2,9,1,1,1,2,9,9,9,1,2,2,2,2,1,dor retro-orbitaria
+,621,68,,Branca,PA/PS  Respiratório,"Obesidade, Hipertensão, Diabetes, Doença cardiovascular",4,2,2,9,2,2,2,2,9,9,1,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,622,56,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,1,9,9,9,9,2,3,2,2,2,
+,623,29,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,2,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,3,
+,624,27,M,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,1,1,1,2,9,1,2,2,2,1,9,9,9,2,2,2,1,3,
+,625,64,M,Parda,UTI COVID,Hipertensão,6,2,1,9,1,2,2,2,9,9,2,2,9,1,9,1,1,1,2,9,9,9,9,2,2,1,1,4,
+,626,43,F,Parda,PA/PS  Respiratório,Sem morbidades,5,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,2,9,9,9,9,2,2,1,2,1,espirros
+,627,32,F,Parda,Domicílio após coleta exame,Outras,6,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,2,dor no peito
+,628,37,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,629,64,M,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,1,2,2,9,9,2,1,2,2,9,1,2,2,1,9,9,9,9,1,3,2,2,1,
+,630,62,M,Branca,Óbito,"Hipertensão, Diabetes",4,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,1,1,9,9,9,9,2,2,1,2,2, saturação 50% aumentando pós intubação E VM
+,631,41,F,Branca,Domicílio após coleta exame,Imunodeficiência,6,2,2,9,2,2,2,2,9,9,2,1,9,1,9,2,1,2,1,9,1,9,9,2,2,2,2,2,
+,632,10,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,10,2,1,9,2,1,2,2,9,9,1,2,1,1,9,2,2,2,2,9,9,9,9,1,2,2,2,2,
+,633,18,F,Branca,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,2,2,1,1,1,2,1,2,9,1,2,2,1,9,1,9,9,2,2,2,2,2,
+,634,62,M,Branca,Domicílio após coleta exame,"Hipertensão, Diabetes, Doença cardiovascular",6,2,1,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,635,39,M,Ignorado,Domicílio após coleta exame,Doença Neurológica,2,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,9,2,2,9,
+,636,26,F,Branca,Domicílio após coleta exame,Ignorado,8,2,1,9,9,9,9,9,9,9,1,1,9,1,9,1,9,9,9,9,9,9,9,9,9,9,9,1,
+,637,38,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,9,1,9,2,2,1,2,9,9,9,9,2,2,2,2,2,
+,638,19,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,2,2,2,2,9,1,1,2,2,9,9,9,9,2,2,2,2,2,
+,639,20,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,1,1,2,1,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,2,
+,640,35,F,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,2,
+,641,35,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,1,2,1,9,9,9,9,2,2,2,2,4,
+,642,32,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,643,35,F,Branca,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,2,2,9,9,2,2,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,644,12,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,645,23,F,Branca,Domicílio após coleta exame,Ignorado,7,2,9,9,9,9,9,9,9,9,9,9,9,1,9,1,9,9,9,9,9,9,9,9,9,9,9,2,
+,646,32,F,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,2,2,2,1,2,2,2,2,9,9,2,1,2,2,9,2,2,1,1,9,9,9,9,2,2,2,2,2,
+,647,55,F,Parda,Domicílio após coleta exame,Hipertensão,6,2,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,1,9,9,9,9,9,9,2,9,9,2,
+,648,30,M,Branca,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,1,2,2,2,4,
+,649,33,M,Branca,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,1,1,1,9,1,2,1,2,9,9,9,9,2,2,2,2,3,
+,650,64,M,Parda,Domicílio após coleta exame,"Hipertensão, Diabetes",3,2,2,9,2,2,2,2,9,9,2,2,2,2,9,1,2,2,1,9,9,9,9,2,2,2,2,4,
+,651,49,F,Branca,Domicílio após coleta exame,Outras,4,2,2,9,2,2,2,2,9,9,1,2,2,1,9,1,2,2,2,1,9,9,9,2,2,2,2,4,
+,652,32,F,Parda,Domicílio após coleta exame,Outras,1,2,1,9,1,1,2,1,9,9,1,1,1,2,9,1,1,1,1,9,9,9,9,1,2,2,2,1,
+,653,61,F,Ignorado,Domicílio após coleta exame,"Obesidade, Hipertensão, Doença cardiovascular",5,2,1,9,2,2,2,2,9,1,1,1,1,1,9,2,2,1,2,9,9,1,9,2,2,2,2,2,
+,654,21,M,Parda,PA/PS  Respiratório,Doença Pulmonar,1,2,1,9,2,2,1,2,9,9,1,1,2,1,9,2,2,2,1,9,9,1,9,2,1,2,2,1,
+,655,53,M,Parda,PA/PS  Respiratório,Outras,2,2,1,9,2,2,2,2,9,9,1,2,9,1,9,2,2,1,1,9,2,9,9,2,9,2,2,4,morbidade: Sequelado de AVC 
+,656,52,F,Branca,Domicílio após coleta exame,Hipertensão,5,2,1,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,1,
+,657,28,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,1,2,2,9,9,9,2,2,2,2,
+,658,66,F,Branca,PA/PS  Respiratório,Outras,6,2,1,9,2,2,1,2,9,9,2,2,1,1,9,2,2,1,1,2,1,1,9,2,2,2,2,1,hipotireoidismo
+,659,60,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Outras",6,2,1,9,2,1,2,2,9,9,2,2,2,1,9,2,2,1,2,9,2,9,9,1,2,2,2,1,
+,660,29,F,Branca,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,1,9,2,9,9,2,2,2,2,2,
+,661,21,M,Parda,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,2,1,9,2,2,2,1,9,1,1,1,1,9,2,9,9,2,1,1,2,1,
+,662,72,F,Branca,PA/PS  Respiratório,Hipertensão,4,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,1,1,9,9,9,9,2,3,2,2,1,pegou covid de novo dia 17/11/2020
+,663,31,M,Branca,Domicílio após coleta exame,Sem morbidades,4,2,1,9,9,9,9,9,9,9,1,1,9,1,9,9,9,9,1,9,9,1,9,9,9,9,9,9,
+,664,22,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,1,1,1,1,9,1,1,2,1,9,9,9,9,2,2,2,2,1,
+,665,24,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,2,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,666,42,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,1,9,9,9,2,2,2,2,1,
+,667,18,M,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,668,44,F,Branca,Domicílio após coleta exame,Sem morbidades,16,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,2,1,2,1,
+,669,44,M,Branca,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,9,2,2,1,
+,670,44,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,1,2,2,9,2,1,2,1,1,2,9,9,2,1,2,2,2,
+,671,37,F,Branca,UTI COVID,"Obesidade, Outras",7,2,1,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,2,9,9,9,9,2,9,2,2,9,Evolução de quadro respiratório
+,672,43,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,1,1,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,673,2 meses,M,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,1,2,9,9,2,2,2,1,2,1,1,1,2,9,9,9,9,2,2,2,2,2,
+,674,34,F,Branca,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,675,33,M,Negra,PA/PS  Respiratório,Sem morbidades,5,2,1,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,2,9,9,9,9,2,9,2,2,1,
+,676,20,F,Parda,Domicílio após coleta exame,Ignorado,4,2,1,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,1,
+,677,25,M,Branca,Domicílio após coleta exame,Sem morbidades,9,2,2,9,2,2,2,2,9,9,1,2,2,1,9,2,2,2,2,9,9,9,9,2,9,2,2,9,Data da coleta: 23/06 (7 dias depois dos primeiros sintomas)
+,678,20,F,Branca,Domicílio após coleta exame,Sem morbidades,8,2,1,9,2,1,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,1,9,2,2,1,Data da coleta: 23/06 (6 dias depois dos primeiros sintomas)
+,679,29,F,Branca,Domicílio após coleta exame,Obesidade,3,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,1,9,9,9,9,1,2,2,2,2,
+,680,40,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,9,2,1,9,9,9,1,9,1,9,1,1,1,1,9,9,9,1,1,1,9,9,9,9,1,9,9,9,
+,681,45,F,Parda,Domicílio após coleta exame,"Doença Pulmonar, Hipertensão",1,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,2,
+,682,38,F,Negra,Domicílio após coleta exame,Ignorado,7,2,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1,1,9,9,9,9,9,9,9,9,2,
+,683,42,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,1,9,9,9,9,2,9,2,2,5,
+,684,49,F,Branca,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,685,35,M,Branca,Domicílio após coleta exame,Ignorado,5,2,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,1,
+,686,30,M,Parda,Domicílio após coleta exame,Sem morbidades,7,2,1,9,9,9,9,9,9,9,9,1,9,9,9,1,9,1,1,9,9,9,9,9,2,9,9,3,
+,687,2,M,Parda,Domicílio após coleta exame,Outras,6,2,1,9,9,9,1,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,2,9,9,1,
+,688,20,F,Parda,Domicílio após coleta exame,Ignorado,7,2,1,9,2,1,1,2,9,9,2,1,1,1,9,2,2,1,1,9,9,9,9,1,9,2,2,1,
+,689,55,M,Ignorado,Domicílio após coleta exame,Hipertensão,4,2,1,9,2,2,2,2,9,9,1,1,1,1,9,1,1,1,1,9,9,9,9,2,2,2,2,1,
+,690,23,M,Branca,Domicílio após coleta exame,Sem morbidades,10,2,1,9,9,9,9,9,9,9,9,1,9,1,9,1,9,9,9,9,9,9,9,9,1,9,9,2,
+,691,58,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,1,9,1,2,2,2,9,9,2,1,2,2,9,1,2,2,1,1,9,9,9,2,2,2,2,1,
+,692,56,F,Parda,Domicílio após coleta exame,Hipertensão,2,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,2,2,9,9,9,9,2,1,2,2,2,
+,693,28,F,Parda,Domicílio após coleta exame,Sem morbidades,8,2,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,1,9,9,9,9,9,2,9,9,2,
+,694,58,M,Parda,Domicílio após coleta exame,"Hipertensão, Diabetes, Doença cardiovascular",10,2,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,1,9,9,9,9,9,9,3,9,9,1,
+,695,42,F,Ignorado,Domicílio após coleta exame,Ignorado,11,2,1,9,9,9,9,9,9,9,1,1,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,1,
+,696,43,M,Negra,Domicílio após coleta exame,Hipertensão,6,2,1,9,1,2,2,2,9,9,1,2,1,1,9,2,2,1,1,1,9,9,1,2,2,2,2,1,
+,697,37,M,Branca,Domicílio após coleta exame,Sem morbidades,6,2,1,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,2,
+,698,67,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença Pulmonar, Outras",12,2,2,9,2,2,2,2,9,9,2,2,1,1,9,1,2,1,2,2,1,2,2,1,3,2,2,1,
+,699,79,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Doença Neurológica",8,2,1,9,1,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,9,1,2,9,
+,700,20,F,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,701,18,F,Ignorado,Domicílio após coleta exame,Doença Pulmonar,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,5,
+,702,44,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,2,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,703,16,M,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,1,2,2,1,9,2,2,1,2,9,9,9,9,2,2,1,2,2,
+,704,17,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,1,2,9,9,2,1,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,1,
+,705,26,M,Parda,Domicílio após coleta exame,Sem morbidades,6,2,1,9,9,9,1,9,9,9,9,1,1,1,9,1,1,1,1,9,1,9,9,9,9,9,9,2,
+,706,19,F,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,1,1,1,1,9,1,2,2,2,2,2,9,9,2,9,2,2,1,manchas vermelhas pelo corpo - coceira
+,707,25,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,9,9,9,9,9,9,9,1,9,9,9,1,9,1,1,9,9,9,1,9,9,9,9,9,Ficha notifica covid vazia. Informações da triagem classificatoria (por isso mtos ignorados). Paciente pegou covid de novo em novembro - 17/11
+,708,46,M,Branca,Domicílio após coleta exame,Infecção HIV,5,2,1,9,1,2,2,2,9,9,2,1,2,2,9,2,2,2,1,9,9,9,9,2,2,1,2,2,
+,709,62,F,Parda,Domicílio após coleta exame,"Hipertensão, Diabetes",7,2,1,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,1,9,9,9,9,9,2,9,9,2,
+,710,30,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,1,2,1,9,9,9,2,2,2,2,1,
+,711,39,F,Parda,Domicílio após coleta exame,"Hipertensão, Diabetes",3,2,1,9,2,2,2,2,1,1,2,1,1,2,9,2,2,1,1,1,9,9,9,2,2,2,2,1,
+,712,69,F,Branca,Óbito,"Hipertensão, Diabetes, Doença cardiovascular",30,2,2,9,2,2,1,2,9,9,2,2,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,1,
+,713,1,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,1,2,9,9,2,2,2,1,9,1,1,2,2,9,9,9,9,2,2,2,2,1,
+,714,19,F,Branca,Domicílio após coleta exame,Ignorado,7,2,2,9,1,2,2,2,9,9,2,1,2,2,9,1,2,1,2,9,9,9,9,2,2,2,2,1,
+,715,32,M,Parda,Domicílio após coleta exame,Sem morbidades,Ignorado,2,1,9,9,9,9,9,9,9,1,1,9,1,9,1,9,1,1,9,9,9,9,9,9,9,9,5,
+,716,22,M,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,2,2,2,9,1,1,2,2,9,9,9,9,2,1,2,2,2,
+,717,69,M,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença Renal, Neoplasia",3,2,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,2,2,9,1,1,9,1,2,2,2,9,
+,718,72,M,Branca,Domicílio após coleta exame,"Hipertensão, Diabetes",3,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,719,33,F,Parda,Domicílio após coleta exame,Sem morbidades,6,2,1,9,1,2,2,2,9,9,1,1,1,1,9,1,2,1,1,1,9,9,9,2,2,1,2,1,
+,720,19,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,9,9,2,2,2,2,9,9,1,1,2,2,9,1,2,1,1,9,9,9,9,2,2,2,2,1,
+,721,63,M,Parda,PA/PS  Respiratório,Doença Neurológica,8,2,2,9,1,2,2,2,9,9,1,1,2,1,9,2,2,1,1,9,9,9,9,2,1,2,2,9,
+,722,39,F,Parda,PA/PS  Respiratório,"Hipertensão, Doença Renal",4,2,1,9,2,1,2,2,9,9,1,1,1,1,9,1,2,1,1,1,1,9,9,1,2,2,2,1,
+,723,25,F,Branca,Domicílio após coleta exame,Obesidade,7,2,1,9,2,1,2,2,9,9,1,1,1,1,9,1,1,1,1,1,9,9,9,1,2,2,2,1,
+,724,23,F,Parda,Domicílio após coleta exame,Diabetes,1,2,2,9,1,1,2,2,9,9,1,1,2,2,9,1,2,1,2,9,9,9,9,1,2,2,2,9,
+,725,1,M,Parda,PA/PS  Respiratório,Ignorado,2,2,1,9,2,2,2,2,9,9,2,1,1,2,9,1,1,2,2,9,9,1,9,2,2,2,2,1,
+,726,46,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,1,2,2,2,9,9,1,1,1,1,9,2,2,1,1,1,9,9,9,2,1,2,2,1,
+,727,42,M,Branca,Domicílio após coleta exame,Hipertensão,3,2,1,9,9,1,1,2,9,9,1,2,2,2,9,2,2,2,1,9,9,9,9,2,2,9,9,1,
+,728,20,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,1,2,9,9,1,1,1,1,9,1,2,1,1,9,9,9,9,2,9,2,2,2,
+,729,1,M,Parda,PA/PS  Respiratório,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,2,2,1,9,1,1,1,2,1,2,1,2,2,2,2,2,1,
+,730,4,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,1,2,2,9,9,9,9,2,2,2,2,2,
+,731,4,F,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,1,2,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,732,30,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,733,21,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,2,1,2,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,734,88,M,Parda,Óbito,Doença cardiovascular,1,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,9,"TC de tórax com infiltrado em bases bilateralmente, vidro fosco; êmese"
+,735,41,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,1,2,1,9,1,9,9,2,2,2,2,3,
+,736,49,F,Parda,Óbito,Outras,Ignorado,2,2,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,1,9,9,9,
+,737,34,F,Branca,Domicílio após coleta exame,Síndrome de Down,1,2,1,9,1,2,2,2,9,9,1,1,1,1,9,1,2,1,1,9,9,9,9,2,2,2,2,1,
+,738,46,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Obesidade, Doença cardiovascular, Outras",1,2,1,9,2,2,2,2,9,9,2,2,2,2,9,2,2,1,2,9,1,9,9,2,2,2,2,1,dor toraxica
+,739,83,F,Parda,Óbito,"Hipertensão, Diabetes, Outras",15,2,9,9,2,2,2,2,9,9,2,2,1,2,9,2,2,2,2,9,1,9,2,1,2,2,2,1,"dissuria, tosse produtiva esporadica"
+,740,53,F,Parda,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,1,9,9,1,1,2,1,9,2,2,1,1,1,9,9,9,2,2,2,2,1,
+,741,55,M,Branca,Domicílio após coleta exame,Sem morbidades,8,2,1,9,1,2,2,2,1,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,prurido em orofaringe
+,742,35,F,Parda,Domicílio após coleta exame,Sem morbidades,12,2,2,9,2,2,2,2,9,9,1,1,2,2,9,1,2,1,2,9,9,9,9,2,2,2,2,5,
+,743,35,F,Ignorado,Domicílio após coleta exame,Sem morbidades,16,2,1,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,5,
+,744,33,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,1,2,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,1,
+,745,29,M,Branca,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,2,1,1,9,2,2,1,1,9,9,9,9,2,2,2,2,5,
+,746,27,M,Branca,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,2,2,2,1,2,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,747,42,M,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,2,2,1,9,2,2,2,2,9,9,9,9,2,2,1,2,5, escarro com expectoração esverdeada
+,748,47,F,Parda,Domicílio após coleta exame,Sem morbidades,6,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,lombalgia
+,749,4,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,2,2,1,2,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,750,49,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Diabetes, Outras",3,2,2,9,2,2,2,2,9,9,2,2,2,2,2,2,2,1,2,9,9,9,9,2,9,1,2,9,"esforço respiratorio,  batimento  das asas nasais, hipossaturação"
+,751,18,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,1,2,2,2,9,9,1,1,1,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,752,21,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,753,24,F,Negra,Domicílio após coleta exame,"Obesidade, Hipertensão",4,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,1,
+,754,26,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,755,60,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,756,46,F,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,9,1,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,1,2,2,1,
+,757,40,M,Branca,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,espirros
+,758,32,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,1,2,9,9,2,1,1,2,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,759,4,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,1,9,9,2,1,1,2,9,1,1,2,2,9,9,9,9,2,2,2,2,2,
+,760,26,M,Branca,Domicílio após coleta exame,Sem morbidades,15,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,1,2,2,9,Dor retro-orbitaria
+,761,20,F,Branca,Domicílio após coleta exame,Sem morbidades,8,2,1,9,2,1,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,1,9,2,2,1,Data da coleta: 23/06 (6 dias depois dos primeiros sintomas)
+,762,36,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,1,2,1,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,9,2,1,1,
+,763,29,M,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,2,2,9,2,2,1,2,9,9,9,9,2,9,2,2,9,
+,764,48,F,Branca,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,1,
+,765,23,M,Parda,Domicílio após coleta exame,Sem morbidades,8,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,9,2,2,9,
+,766,50,M,Ignorado,PA/PS  Respiratório,"Doença Neurológica, Outras",3,2,9,9,9,9,9,9,9,9,1,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,1,Outra morbidade: TDM
+,767,39,F,Parda,PA/PS  Respiratório,Outras,4,2,1,9,1,2,2,2,9,9,1,1,2,1,9,1,2,1,1,9,9,9,9,2,1,2,2,2,Caso confirmado: Miriam Borges (local de trabalho)
+,768,33,F,Ignorado,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,9,2,2,1,
+,769,33,F,Ignorado,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,9,2,2,1,
+,770,1,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,2,2,2,9,1,2,2,2,9,9,9,9,2,9,2,2,9,
+,771,36,F,Parda,Domicílio após coleta exame,Outras,4,2,1,9,1,1,1,2,9,9,2,1,2,1,9,2,2,1,1,9,9,9,9,1,1,2,2,1,"uso de medicamento: Ibuprofeno, dipirona"
+,772,31,M,Parda,Domicílio após coleta exame,Sem morbidades,Ignorado,2,1,9,2,2,1,2,9,9,1,1,2,1,9,1,2,1,1,9,9,9,9,2,9,2,2,1,"Outro atendimento no dia 11/02/2021 sintomático com febre, mialgia, náusea/vômito, cefaléia, adinamia e tosse; contato com paciente confirmado Maria Martins de Andrade (domicilio)"
+,773,1,F,Branca,PA/PS  Respiratório,Sem morbidades,3,2,2,9,2,1,1,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,1,9,2,2,1,Frequentou UBS Cidade Nova
+,774,90,M,Ignorado,Domicílio após coleta exame,"Hipertensão, Outras",Ignorado,2,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,1,2,9,9,9,9,2,2,2,2,1,Outras morbidades: Hipotireoidismo
+,775,83,M,Parda,PA/PS  Respiratório,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,1,2,1,9,9,9,9,2,9,2,2,9,Uso de medicamento: paracetamol
+,776,83,M,Parda,PA/PS  Respiratório,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,1,2,1,9,9,9,9,2,9,2,2,9,Uso de medicamento: paracetamol
+,777,25,F,Branca,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Obesidade,Não se aplica,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,"Positivo em 11/06/2020, assintomática. Paciente internada para procedimento CPRE."
+,778,34,M,Branca,Domicílio após coleta exame,Ignorado,6,2,2,9,9,9,9,9,9,9,1,1,9,1,9,9,9,9,1,9,9,9,9,9,9,9,9,2,Trabalhador/ Profissional da Saúde Coleta dia 22/06/2020; contato com caso confirmado: Fabiola Cristiani Zanini.
+,779,64,M,Branca,PA/PS  Respiratório,"Hipertensão, Doença cardiovascular",4,2,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1,
+,780,33,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,2,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,2,dorsalgia
+,781,15,M,Branca,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,2,9,9,1,2,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,782,31,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,1,2,2,2,1,1,2,1,1,1,9,1,2,1,2,1,9,9,9,2,2,2,2,1,
+,783,43,M,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,5,
+,784,21,F,Branca,Domicílio após coleta exame,Doença Pulmonar,1,2,2,9,1,1,2,2,9,9,2,1,2,1,9,1,2,1,1,9,9,9,9,1,1,2,2,1,
+,785,22,F,Branca,PA/PS  Respiratório,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,1,2,2,9,1,2,2,2,9,9,9,9,2,2,1,2,1,espirros
+,786,34,,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,1,9,9,9,2,1,2,2,1,
+,787,13,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,1,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,Desconforto toraxico
+,788,51,F,Branca,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2,
+,789,18,M,Ignorado,Domicílio após coleta exame,Doença Pulmonar,4,2,1,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,790,31,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,791,11,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,2,2,1,9,1,2,1,2,9,9,9,9,2,2,1,2,1," sinais de cianose, batimento da asa do nariz, tiragem intercostal "
+,792,27,M,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,1,2,1,2,1,2,1,1,1,9,9,9,2,1,2,2,2,
+,793,24,M,Branca,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,1,1,9,9,1,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,794,38,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,1,9,9,2,1,2,1,9,1,1,1,1,9,9,9,9,2,2,2,2,1,
+,795,21,F,Parda,PA/PS  Respiratório,Sem morbidades,2,2,2,9,2,1,1,1,9,9,2,1,2,1,9,1,2,1,1,9,9,9,9,1,2,2,2,2,
+,796,29,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,2,2,1,9,2,1,1,1,9,9,2,1,1,1,9,1,2,1,1,1,9,9,9,1,2,2,2,1," vomito com raia de sangue, Coriza, Adinamia; Evolução possível pneumonia viral, dor retro-orbital"
+,797,36,M,Branca,PA/PS  Respiratório,Sem morbidades,4,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,1,1,2,9,9,9,9,2,1,2,2,2,dor no peito
+,798,41,F,Branca,Domicílio após coleta exame,Sem morbidades,nao relatado,2,2,9,2,2,2,2,9,9,2,1,1,1,9,1,2,1,1,9,9,9,9,2,2,2,2,3,
+,799,68,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Diabetes",4,2,1,9,2,1,2,2,9,9,2,2,2,2,9,2,2,1,1,9,9,9,9,2,2,2,2,1,
+,800,46,F,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,1,9,1,1,2,1,9,2,2,1,1,9,9,9,9,2,2,2,2,2,disgeusia
+,801,72,M,Branca,Óbito,Doença Pulmonar,nao informado,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1,9,9,1,
+,802,8,F,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,1,2,2,2,9,1,2,1,2,1,9,9,9,2,2,2,2,1,dor abdominal
+,803,43,F,Ignorado,Domicílio após coleta exame,Diabetes,4,2,1,9,1,1,2,2,9,9,2,1,1,1,9,1,1,1,1,9,9,9,9,1,2,2,2,5,
+,804,37,F,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,1,2,2,9,1,1,2,1,1,9,9,9,2,2,2,2,1,
+,805,28,M,Branca,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,2,2,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,806,46,F,Ignorado,Domicílio após coleta exame,"Obesidade, Outras",2,2,2,9,2,1,2,2,9,9,2,1,2,1,9,1,1,1,2,1,9,9,9,1,1,2,2,1,
+,807,21,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,1,9,9,9,2,2,2,2,1,
+,808,2,M,Branca,Domicílio após coleta exame,Sem morbidades,6,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,1,
+,809,42,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Doença Neurológica,Não relatado,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,2,9,9,9,9,2,1,2,2,5,
+,810,2,M,Branca,PA/PS  Respiratório,Sem morbidades,6,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,sibilancia
+,811,6,M,Branca,Domicílio após coleta exame,Doença Neurológica,7,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,812,2,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,1,9,9,9,2,2,2,2,2,
+,813,38,F,Parda,PA/PS  Respiratório,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,1,1,1,9,9,9,2,2,2,2,1,
+,814,43,F,Branca,PA/PS  Respiratório,Hipertensão,3,2,1,9,1,2,2,2,9,9,1,1,2,1,9,1,2,1,1,1,9,9,9,2,2,2,2,1,
+,815,40,F,Branca,PA/PS  Respiratório,Sem morbidades,4,2,2,9,2,2,2,2,9,9,9,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,2, dor ventilatório-dependente
+,816,33,F,Branca,Domicílio após coleta exame,"Obesidade, Outras",5,2,2,9,2,2,2,2,9,9,1,1,1,2,9,2,2,1,1,1,1,9,9,2,2,2,2,1,otalgia
+,817,48,F,Branca,UTI COVID,Obesidade,7,2,2,9,1,2,2,2,9,1,2,2,1,2,9,2,2,1,2,9,1,1,9,2,2,2,2,9,hipossaturaçao
+,818,46,F,Ignorado,Domicílio após coleta exame,Outras,3,2,1,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,1,9,9,9,9,2,2,1,2,1,
+,819,44,F,Branca,Domicílio após coleta exame,Outras,5,2,2,9,1,2,2,2,9,9,1,1,2,1,9,1,1,2,2,9,9,9,9,1,9,2,1,1,
+,820,39,F,Negra,Domicílio após coleta exame,Hipertensão,5,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,821,21,M,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,1,9,9,2,1,1,1,9,2,2,2,2,1,9,9,9,2,2,2,2,1,Dor retro orbitaria
+,822,33,F,Parda,Domicílio após coleta exame,Doença Pulmonar,5,2,2,9,1,2,2,2,9,9,1,2,2,2,9,1,2,2,1,9,9,9,9,2,2,1,2,1,
+,823,52,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,1,1,1,9,9,9,2,3,2,2,2,
+,824,30,F,Parda,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,1,1,2,9,9,1,1,1,2,9,1,2,2,1,1,9,9,9,1,2,2,1,2,
+,825,77,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença Pulmonar, Hipertensão, Diabetes, Doença cardiovascular, Doença Renal, Outras",7,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,2,1,2,1,1,1,2,2,3,2,2,1,oliguria
+,826,22,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,1,2,1,2,2,2,1,1,9,9,9,9,2,2,2,2,2,"dissuria, dor retro orbitaria"
+,827,21,F,Branca,Domicílio após coleta exame,Outras,4,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,1,1,9,9,9,9,2,2,2,2,1,
+,828,20,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,2,1,2,1,2,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,829,38,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,1,2,9,9,2,2,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,830,49,M,Ignorado,Domicílio após coleta exame,"Diabetes, Outras",7,2,1,9,2,2,2,1,9,9,2,1,1,1,9,1,2,2,1,1,9,9,9,2,2,2,2,1,
+,831,64,M,Branca,PA/PS  Respiratório,"Hipertensão, Doença cardiovascular",4,2,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1,
+,832,41,F,Branca,PA/PS  Respiratório,Sem morbidades,6,2,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1,
+,833,75,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença Pulmonar, Hipertensão, Doença cardiovascular",Ignorado,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,9,1,2,9,
+,834,68,M,Parda,Óbito,"Hipertensão, Doença cardiovascular, Doença Neurológica",Ignorado,2,2,9,2,1,2,2,9,9,2,2,2,2,9,2,2,2,2,9,9,9,9,1,2,2,2,1,Faleceu dia 01/07/2020
+,835,81,,Parda,Óbito,Ignorado,Não se aplica,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,Paciente admitido por trauma pós-queda dia 28/06; com diagnóstico de morte encefálica no dia 29/06; coletou amostra dia 30/06 e diagnosticado com COVID foi transferido para UTI-Covid. Óbito constatado no dia 01/07/2020.
+,836,51,F,Parda,UTI COVID,"Hipertensão, Doença Renal, Outras",2,2,1,9,9,9,1,9,9,9,9,1,1,9,9,9,9,1,1,9,9,9,9,9,9,9,9,1,"Outra morbidade: dialítica; Paciente admitida no PS respiratório, transferida para UTI-Covid, recebeu alta dia 04/07. Óbito dia 30/10/2020 (causa natural)."
+,837,38,F,Ignorado,Domicílio após coleta exame,"Doença Pulmonar, Hipertensão",3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,2,2,9,2,2,2,9,2,1,
+,838,51,F,Parda,UTI COVID,"Hipertensão, Doença Renal, Outras",2,2,1,9,9,9,1,9,9,9,9,1,1,9,9,9,9,1,1,9,9,9,9,9,9,9,9,1,"Outra morbidade: dialítica; Paciente admitida no PS respiratório, transferida para UTI-Covid, recebeu alta dia 04/07. Óbito dia 30/10/2020 (causa natural)."
+,839,40,F,Branca,Domicílio após coleta exame,Hipertensão,3,2,2,9,2,2,2,9,9,9,9,1,2,2,9,2,1,2,2,1,9,9,2,2,2,2,2,1,
+,840,33,M,Branca,Domicílio após coleta exame,Sem morbidades,1,2,1,9,2,2,2,9,9,9,1,1,2,1,9,9,2,2,1,2,2,9,2,9,2,2,2,3,
+,841,42,M,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,2,2,2,9,2,1,2,2,9,9,9,9,2,9,2,2,9,Trabalhador/Profissional da saúde
+,842,41,M,Parda,Domicílio após coleta exame,Sem morbidades,Não relatado,2,1,9,2,2,2,2,9,9,1,1,1,1,2,1,1,2,1,2,2,9,2,2,2,2,2,2,
+,843,32,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,1,9,9,2,2,2,9,9,1,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,9,3,Trabalhador/Profissional da saúde
+,844,22,F,Ignorado,Domicílio após coleta exame,Doença Pulmonar,3,2,1,9,2,2,2,2,9,9,2,1,1,1,9,1,2,1,1,2,2,9,2,2,1,2,2,1,
+,845,31,F,Negra,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Outras,1,2,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,1,2,9,9,9,9,2,9,2,2,9,"Outras morbidades: elitista, usuária de drogas, RNC no momento da coleta, Eupneica em TOT. Saturação O2 < 96%."
+,846,33,M,Parda,Domicílio após coleta exame,Doença Pulmonar,4,2,1,9,2,2,2,9,9,9,2,1,2,1,9,1,2,1,1,1,2,9,2,1,9,2,2,4,
+,847,40,F,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,1,2,1,9,2,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,2,Contato com caso confirmado: Maria Martine (domicilio)
+,848,53,F,Ignorado,UTI COVID,"Obesidade, Hipertensão",6,2,2,9,2,2,2,2,9,9,1,2,2,1,9,2,2,1,2,9,9,9,9,2,2,2,2,1,"Saturação O2 < 96%. 46 dias de internação, com alta dia 13/08/2020."
+,849,27,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,9,9,9,9,9,9,9,1,9,1,9,1,9,9,1,9,9,9,9,9,2,9,9,9,
+,850,32,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,Trabalhador da LAR - Setor de Corte
+,851,24,F,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,Uso de medicamento: Maxalgina e Neotoss
+,852,27,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,1,1,1,9,1,2,1,1,2,2,9,2,1,2,2,2,1,
+,853,38,M,Parda,Domicílio após coleta exame,Sem morbidades,Não relatado,2,2,9,2,2,2,2,9,9,2,2,2,1,9,1,2,1,1,2,2,9,2,2,2,2,2,5,
+,854,27,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,2,9,1,2,2,1,1,2,9,2,2,2,2,2,1,
+,855,18,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,1,2,2,2,9,9,9,2,1,2,2,9,1,1,2,1,2,2,2,2,2,2,2,2,1,
+,856,1,M,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,9,2,2,2,9,9,2,2,2,1,9,1,2,2,2,2,2,2,2,1,2,2,2,1,
+,857,25,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,2,2,2,2,2,2,2,2,2,
+,858,42,,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,2,1,2,9,9,9,9,9,1,9,9,9,9,9,2,2,2,1,
+,859,57,M,Parda,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,9,2,9,1,1,1,1,9,2,2,2,1,2,2,2,2,2,3,2,1,2,
+,860,57,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Outras",3,2,2,9,2,2,1,2,1,1,2,2,2,1,9,2,2,1,2,2,1,1,2,2,1,2,2,2,
+,861,46,F,Branca,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,
+,862,32,,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença Pulmonar, Outras",Não relatado,2,2,9,2,2,2,2,9,9,2,1,2,2,9,2,2,1,2,9,9,9,9,2,2,2,2,1,
+,863,2,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Doença Neurológica, Outras",Não relatado,2,2,9,2,2,2,2,9,9,2,2,2,2,9,2,2,1,2,9,9,9,9,2,9,2,2,9,
+,864,10,F,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)",Sem morbidades,Não relatado,2,1,9,2,1,2,2,9,9,2,2,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,2,"Abdome doloroso à palpação, vômitos. Vieram por uma APENDICECTOMIA porém no CC mãe informa que ela  e o filho tiveram contato com o tio, que é confirmado para covid. A criança apresentou febre, mas sem outros sintomas. Sem queixas respiratórias no momento."
+,865,24,F,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,Uso de medicamento: Maxalgina e Neotoss
+,866,44,F,Parda,Domicílio após coleta exame,Outras,1,2,1,9,2,2,2,1,9,9,2,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,1,Morbidade: Síndrome de Meniere
+,867,62,F,Negra,Domicílio após coleta exame,Outras,3,2,9,9,9,1,1,9,9,9,9,1,9,1,9,1,9,9,1,9,9,9,1,1,2,9,1,2,"Outros sintomas: Irritabilidade na garganta, sensação de cansaço. Outras morbidades: Labirintite. Uso de medicamento: Dipirona e Histamina. Contato com caso confirmado de outra localidade."
+,868,30,M,Branca,PA/PS  Respiratório,Outras,6,2,9,9,1,9,9,9,9,9,1,9,9,1,9,9,9,1,1,9,9,9,9,9,1,9,9,4,Histórico de bronquite há 1 ano. Uso de medicamento: Ibuprofeno. Contato com caso suspeito: Larissa Mancuello. Admitida dia: 30/06 no PS Respiratório com alta dia: 01/07 e Readmitida no PS respiratório dia 02/07 com alta no mesmo dia.
+,869,31,F,Parda,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,1,2,9,9,1,1,2,1,9,1,1,1,1,9,9,9,9,2,2,1,2,1,
+,870,21,F,Parda,PA/PS  Respiratório,Outras,6,2,2,9,2,2,1,2,9,9,1,2,2,1,9,2,2,2,2,9,9,9,9,2,1,2,2,9,"Data da coleta: 29/06. Readmitida dia 07/07 no PS Respiratório com ""mão formigando"" e cefaléia com intensidade de dor 10/10. Tabagista há 6 anos. Apresenta quadro de ansiedade com tratamento medicinal, pré-diabética (abandono de tratamento há 2 anos) e bronquite com uso esporádico de salbutamol, durante crises."
+,871,59,M,Parda,"Unidade de Internação COVID (Enfermaria, UCE, UTDI)","Hipertensão, Diabetes, Doença Neurológica, Outras",4,2,1,9,9,9,9,9,9,9,1,9,9,1,9,1,9,9,9,9,9,9,9,9,2,9,9,5,Outras morbidades: inicio de quadro sugestivo de AVC Isquêmico. Dias de internação: 4.
+,872,24,F,Branca,Domicílio após coleta exame,"Obesidade, Outras",3,2,1,9,2,2,1,2,9,9,1,1,2,2,9,1,2,2,1,9,9,9,9,2,2,2,2,1,"Outras morbidades: fuma nargile, cisto na região do coccix. Uso de medicamento: Amoxilina + clavulanato + ibuprofeno."
+,873,24,F,Branca,Domicílio após coleta exame,Outras,3,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,1,1,2,9,9,9,9,2,1,2,2,9,Funcionária de frigorífico. Data da Coleta: 30/06. Admitida no PS Respiratório dias 12/08 (Covid negativo) e 14/09 (Covid positivo).
+,874,34,M,Ignorado,Domicílio após coleta exame,Ignorado,7,2,1,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,2,
+,875,55,F,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,1,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,876,26,F,Branca,Domicílio após coleta exame,Sem morbidades,8,2,2,9,2,2,2,2,9,9,2,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,1,Data da coleta: 23/06
+,877,7,F,Parda,Domicílio após coleta exame,Doença Pulmonar,5,2,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,2,Morbidade: Bronquite
+,878,41,F,Parda,Domicílio após coleta exame,Doença Pulmonar,6,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,2,Outros sintomas: dor torácica. Contato com caso confirmado (domicilio): Evandro da Silva Pinto.
+,879,26,M,Branca,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,1,1,2,2,9,2,2,2,2,9,9,9,9,2,2,2,2,1,Data da 1a coleta: 23/06. Data da 2a coleta: 19/11. 
+,880,26,M,Parda,Domicílio após coleta exame,Sem morbidades,7,2,9,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,2,9,9,9,9,2,9,2,2,1,
+,881,41,F,Parda,Domicílio após coleta exame,Doença Pulmonar,5,2,9,9,9,9,9,9,9,9,9,1,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,2,Outra morbidade: bronquite asmática.
+,882,22,M,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,883,23,M,Branca,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,2,2,1,1,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,1,
+,884,30,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,2,2,2,2,2,2,2,1,1,2,1,2,2,2,2,1,2,2,2,2,2,2,2,2,9,
+,885,46,F,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,1,2,2,2,1,2,2,2,2,1,2,2,2,1,2,1,2,2,2,2,2,2,1,2,2,9,
+,886,44,M,Branca,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,9,1,2,1,2,1,2,9,9,9,9,2,2,2,2,9,
+,887,55,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,1,1,2,2,9,9,1,1,9,1,9,1,2,2,1,9,9,9,9,1,2,2,2,9,
+,888,24,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,1,9,1,9,1,2,2,2,9,9,9,9,2,2,1,2,9,
+,889,37,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,2,2,9,1,9,2,2,1,2,9,9,9,9,2,2,2,2,1,
+,890,39,M,Branca,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,1,9,1,9,2,2,1,1,9,9,9,9,2,2,2,2,1,
+,891,55,F,Branca,PA/PS  Respiratório,Hipertensão,2,2,1,9,2,2,2,2,9,9,2,1,9,2,9,1,2,2,1,9,9,9,9,2,9,2,2,3,
+,892,29,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,2,9,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,893,21,M,Ignorado,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,1,1,9,9,2,1,9,2,9,2,2,2,2,2,9,9,9,2,2,2,2,1,
+,894,30,M,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,1,2,9,1,9,2,2,1,2,2,2,9,9,2,2,2,2,1,
+,895,31,F,Branca,Domicílio após coleta exame,Ignorado,5,2,1,9,9,9,9,9,9,9,9,9,9,9,9,1,9,1,1,9,9,9,9,9,9,9,9,1,
+,896,34,F,Ignorado,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,2,2,2,1,2,1,1,1,2,9,9,9,9,2,1,2,2,1,
+,897,72,M,Ignorado,Domicílio após coleta exame,Hipertensão,1,2,1,9,9,9,9,9,9,9,2,9,9,1,9,1,9,1,1,9,9,9,9,9,2,9,9,5,
+,898,2,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,1,2,2,9,9,1,2,2,1,9,1,1,1,2,9,9,9,2,1,2,2,2,1,
+,899,5,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,2,9,2,2,2,2,2,2,
+,900,53,M,Branca,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,2,2,9,9,2,1,2,2,9,2,2,2,2,9,2,9,2,2,1,2,2,2,
+,901,29,M,Parda,Domicílio após coleta exame,Hipertensão,5,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,2,9,2,2,2,2,2,1,
+,902,14,F,Ignorado,Domicílio após coleta exame,Outras,3,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,2,9,2,9,2,2,2,2,2,2,
+,903,64,F,Negra,Domicílio após coleta exame,Hipertensão,2,2,2,9,2,2,2,2,1,1,9,1,2,1,9,2,2,2,2,9,2,9,9,2,2,2,2,1,
+,904,68,M,Parda,Domicílio após coleta exame,Doença Renal,8,2,1,9,2,2,2,2,9,9,2,1,1,2,9,2,2,1,1,9,1,9,2,2,1,2,2,1,
+,905,37,F,Negra,Domicílio após coleta exame,Hipertensão,não se aplica,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,9,2,2,2,
+,906,68,M,Parda,PA/PS  Respiratório,"Doença Pulmonar, Hipertensão, Diabetes",8,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,907,54,F,Branca,Domicílio após coleta exame,"Hipertensão, Diabetes",3,2,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,2,
+,908,30,F,Parda,PA/PS  Respiratório,Sem morbidades,11,2,2,9,2,1,2,2,9,9,1,1,2,2,9,1,2,2,1,9,9,9,9,1,2,2,2,2,
+,909,35,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,2,
+,910,37,F,Parda,Domicílio após coleta exame,Outras,3,2,9,9,9,9,9,9,9,9,1,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,2,
+,911,26,M,Ignorado,Domicílio após coleta exame,Sem morbidades,6,2,2,2,2,2,2,2,9,9,9,2,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,2,
+,912,23,M,Branca,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,9,9,9,9,2,1,2,2,1,
+,913,64,M,Branca,Domicílio após coleta exame,Obesidade,3,2,1,9,2,2,2,2,2,9,9,1,9,1,9,1,2,2,1,9,2,2,9,2,2,2,2,1,
+,914,27,F,Branca,PA/PS  Respiratório,Sem morbidades,6,2,1,9,2,2,2,2,9,9,9,1,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,4,
+,915,34,F,Branca,PA/PS  Respiratório,"Hipertensão, Diabetes",2,2,1,9,1,1,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,1,2,2,2,1,
+,916,40,F,Branca,PA/PS  Respiratório,Sem morbidades,3,2,1,9,2,2,1,2,9,9,9,1,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,1,
+,917,22,F,Parda,Domicílio após coleta exame,Sem morbidades,6,2,2,9,1,1,1,2,9,9,9,1,2,1,9,1,2,1,1,9,9,9,9,1,1,2,2,1,
+,918,36,F,Ignorado,PA/PS  Respiratório,Sem morbidades,5,2,2,9,2,2,1,2,9,9,9,1,2,2,9,2,2,2,1,9,9,9,9,2,2,2,2,2,
+,919,31,F,Branca,PA/PS  Respiratório,Sem morbidades,3,2,2,9,2,2,2,2,9,9,9,1,2,1,9,2,2,2,1,9,9,9,9,9,2,2,2,1,
+,920,52,F,Parda,PA/PS  Respiratório,Sem morbidades,3,2,2,2,2,2,2,2,9,9,1,2,1,1,9,2,2,2,2,1,9,9,9,2,2,2,2,1,
+,921,31,F,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,1,2,9,9,1,1,2,1,9,1,2,2,2,9,9,9,9,2,2,2,2,1,
+,922,80,M,Parda,PA/PS  Respiratório,"Hipertensão, Diabetes",4,2,2,9,2,2,2,1,9,9,9,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,923,31,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,4,
+,924,25,F,Ignorado,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,9,9,9,1,2,1,9,2,2,2,1,9,9,9,9,2,2,2,2,4,
+,925,24,F,Ignorado,PA/PS  Respiratório,Sem morbidades,3,2,1,9,1,2,2,2,9,9,9,1,2,1,9,1,1,2,1,9,9,9,9,2,2,2,2,2,
+,926,61,F,Branca,PA/PS  Respiratório,Sem morbidades,6,2,2,9,2,2,2,2,9,9,9,1,2,1,9,1,2,2,1,9,9,9,9,2,2,2,2,1,
+,927,12,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,9,2,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,1,
+,928,33,F,Branca,PA/PS  Respiratório,Sem morbidades,8,2,1,9,2,2,2,2,9,9,9,1,9,1,9,1,2,1,2,9,2,9,9,2,2,2,2,1,
+,929,48,M,Ignorado,PA/PS  Respiratório,Sem morbidades,6,2,1,9,2,2,2,1,9,9,9,1,2,1,9,2,2,1,1,9,9,9,9,2,2,2,2,2,
+,930,43,F,Branca,Domicílio após coleta exame,Hipertensão,5,2,1,9,1,2,2,2,9,9,1,1,2,1,9,1,2,1,1,9,9,9,9,2,2,2,2,2,
+,931,34,F,Parda,PA/PS  Respiratório,"Imunodeficiência, Infecção HIV",4,2,9,9,9,9,9,9,9,9,9,9,9,1,9,9,9,1,9,9,9,9,9,9,1,9,9,2,
+,932,50,F,Ignorado,PA/PS  Respiratório,Sem morbidades,6,2,1,9,1,2,2,2,9,9,9,1,2,2,9,1,2,2,1,9,9,9,9,2,2,2,2,2,
+,933,38,F,Parda,Domicílio após coleta exame,Obesidade,1,2,2,9,2,2,2,2,9,9,1,1,9,2,9,2,2,2,1,9,2,9,9,2,2,2,2,1,
+,934,51,F,Branca,PA/PS  Respiratório,Sem morbidades,1,2,9,9,9,9,9,9,9,9,9,1,9,1,9,1,9,9,9,9,9,9,9,9,2,9,9,3,
+,935,22,M,Negra,PA/PS  Respiratório,Outras,6,2,2,2,2,1,2,2,2,2,1,2,1,1,9,1,2,2,2,9,2,9,9,1,2,2,2,2,
+,936,38,F,Parda,Domicílio após coleta exame,Sem morbidades,4,2,1,9,1,1,2,2,9,9,2,1,1,1,9,1,2,2,2,9,9,9,9,1,2,2,2,2,
+,937,66,M,Parda,PA/PS  Respiratório,Sem morbidades,4,2,1,9,2,2,2,2,2,9,2,1,2,2,9,2,2,2,1,9,2,9,9,2,2,2,2,1,
+,938,37,F,Branca,Domicílio após coleta exame,Sem morbidades,3,2,1,9,1,2,2,2,9,9,1,1,1,1,9,1,1,2,1,1,9,9,9,2,2,2,2,2,
+,939,55,F,Parda,Domicílio após coleta exame,Outras,6,2,1,9,9,9,9,9,9,9,1,1,9,1,9,1,9,9,9,9,9,9,9,9,2,9,9,4,
+,940,23,F,Parda,PA/PS  Respiratório,Sem morbidades,1,2,1,9,9,9,9,9,9,9,1,9,9,1,9,1,9,9,1,9,9,9,9,9,2,9,9,1,
+,941,45,M,Branca,PA/PS  Respiratório,Sem morbidades,8,2,1,9,2,2,1,2,9,9,1,1,2,2,9,2,2,1,1,9,9,9,9,2,2,2,2,5,
+,942,21,F,Branca,PA/PS  Respiratório,Sem morbidades,5,2,2,9,2,1,2,2,9,9,2,1,2,1,9,2,2,1,1,9,9,9,9,1,2,2,2,1,
+,943,32,M,Parda,PA/PS  Respiratório,Sem morbidades,4,2,1,9,9,9,9,9,9,9,1,9,1,9,9,9,9,9,9,1,9,9,9,9,1,9,9,1,
+,944,8,M,Ignorado,PA/PS  Respiratório,Sem morbidades,4,2,9,9,9,9,9,9,9,9,9,1,9,1,9,9,9,9,9,9,9,9,9,9,2,9,9,5,
+,945,1,M,Ignorado,PA/PS  Respiratório,Sem morbidades,4,2,1,9,2,2,2,2,9,9,2,1,2,1,9,1,1,1,2,9,2,9,9,2,2,2,2,5,
+,946,35,F,Parda,Domicílio após coleta exame,Sem morbidades,3,2,2,9,2,2,2,2,1,1,1,2,2,1,9,1,2,1,2,9,2,9,9,2,2,2,2,1,
+,947,42,M,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,1,9,2,2,2,2,9,9,2,2,2,1,9,1,1,2,2,9,2,9,9,2,2,2,2,2,
+,948,26,F,Parda,PA/PS  Respiratório,Sem morbidades,6,2,2,9,2,2,2,2,9,9,1,1,2,2,9,1,1,2,1,9,9,9,9,2,2,2,2,2,
+,949,31,F,Parda,PA/PS  Respiratório,Sem morbidades,4,2,2,9,2,2,2,2,9,1,1,1,1,1,9,2,2,2,1,9,2,9,9,2,2,2,2,4,
+,950,59,M,Ignorado,PA/PS  Respiratório,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,2,1,2,9,9,9,9,2,2,2,2,2,
+,951,31,M,Ignorado,Domicílio após coleta exame,Sem morbidades,4,2,9,9,2,2,2,2,9,9,1,1,2,2,9,1,2,2,2,9,2,9,9,2,2,2,2,2,
+,952,31,F,Parda,PA/PS  Respiratório,Sem morbidades,3,2,1,9,2,2,2,2,2,9,2,1,2,2,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,953,56,M,Ignorado,PA/PS  Respiratório,"Hipertensão, Outras",4,2,1,9,2,2,1,2,9,9,2,1,1,1,9,1,2,2,1,9,1,9,9,2,2,2,2,2,
+,954,32,F,Branca,PA/PS  Respiratório,Outras,4,2,2,9,2,2,1,2,9,9,2,1,2,1,9,1,2,2,2,9,2,9,9,2,2,2,2,2,
+,955,14,M,Branca,PA/PS  Respiratório,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,2,2,1,9,2,2,2,2,9,2,9,9,2,2,2,2,2,
+,956,50,M,Ignorado,PA/PS  Respiratório,Sem morbidades,1,2,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1,9,9,9,9,9,2,9,9,2,
+,957,27,F,Parda,PA/PS  Respiratório,Sem morbidades,1,2,1,2,2,2,2,2,9,9,1,1,2,2,9,2,2,2,2,9,2,9,9,2,2,2,2,1,
+,958,28,M,Parda,PA/PS  Respiratório,Sem morbidades,1,2,1,2,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,9,2,9,9,2,2,2,2,2,
+,959,34,F,Parda,PA/PS  Respiratório,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,1,2,1,9,2,2,2,2,9,2,9,9,2,2,2,2,5,
+,960,33,M,Ignorado,PA/PS  Respiratório,Sem morbidades,3,2,2,9,2,2,2,2,9,9,2,1,2,2,9,2,2,1,1,9,2,9,9,2,2,2,2,5,
+,961,15,F,Branca,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,1,2,2,9,9,2,1,2,2,9,2,2,2,1,9,2,9,9,1,2,2,1,4,
+,962,31,F,Parda,PA/PS  Respiratório,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,2,2,2,9,1,1,2,2,9,2,9,9,2,2,2,2,1,
+,963,22,M,Parda,Domicílio após coleta exame,Sem morbidades,1,2,1,2,1,2,2,9,9,9,2,1,2,1,2,2,2,2,1,2,9,9,2,2,2,2,1,2,
+,964,30,F,Ignorado,Domicílio após coleta exame,Outras,Ignorado,2,2,2,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,9,2,9,2,2,2,2,2,4,
+,965,21,F,Branca,PA/PS  Respiratório,Sem morbidades,6,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,1,2,9,9,2,2,2,2,2,
+,966,51,F,Branca,PA/PS  Respiratório,Outras,7,2,1,9,2,2,2,2,1,1,1,1,2,2,9,2,2,2,1,9,2,9,9,2,2,2,2,2,
+,967,39,F,Parda,PA/PS  Respiratório,Sem morbidades,10,2,2,9,2,2,2,2,9,9,1,1,1,1,9,1,2,2,2,1,9,9,9,1,2,2,2,4,
+,968,41,F,Ignorado,PA/PS  Respiratório,Sem morbidades,1,2,2,9,2,1,2,2,9,9,2,1,2,1,9,1,2,1,2,1,9,9,9,1,2,2,2,2,
+,969,57,M,Parda,Domicílio após coleta exame,"Hipertensão, Diabetes, Outras",4,2,2,9,2,2,2,2,9,9,1,2,2,2,9,1,2,2,2,9,2,9,9,2,2,2,2,1,
+,970,29,F,Ignorado,PA/PS  Respiratório,Sem morbidades,5,2,1,9,2,2,2,2,1,1,2,1,2,2,9,2,2,2,2,9,2,9,9,2,2,2,2,2,
+,971,3,F,Ignorado,PA/PS  Respiratório,Sem morbidades,4,2,2,9,2,2,1,2,9,9,2,2,2,1,9,2,2,2,2,9,2,9,9,2,2,2,2,2,
+,972,22,F,Parda,PA/PS  Respiratório,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,1,2,2,9,1,2,2,2,9,2,9,9,2,2,2,2,1,
+,973,53,M,Branca,PA/PS  Respiratório,Outras,1,2,1,9,2,2,2,2,9,9,2,1,2,2,9,1,2,1,2,9,2,9,9,2,2,2,2,2,
+,974,48,F,Ignorado,PA/PS  Respiratório,Sem morbidades,1,2,2,2,2,2,2,2,9,9,2,1,2,1,9,1,1,2,2,9,2,9,9,2,2,2,2,1,
+,975,67,F,Branca,PA/PS  Respiratório,"Obesidade, Hipertensão, Diabetes",4,2,2,9,2,2,2,1,9,9,1,1,1,1,9,1,1,1,2,9,2,9,9,2,2,1,1,1,
+,976,29,F,Branca,PA/PS  Respiratório,Sem morbidades,2,2,2,9,2,2,2,2,9,9,2,2,2,2,9,1,2,2,2,9,9,9,9,2,2,2,2,2,
+,977,22,F,Parda,PA/PS  Respiratório,Outras,4,2,1,9,2,2,2,2,9,9,2,1,2,2,9,1,2,2,2,2,2,9,9,2,2,2,2,2,
+,978,60,F,Branca,PA/PS  Respiratório,Sem morbidades,7,2,1,9,2,2,2,2,9,9,2,1,1,1,9,2,2,2,1,9,2,9,9,2,2,2,2,1,
+,979,66,M,Parda,PA/PS  Respiratório,Hipertensão,7,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,2,2,1,1,9,9,9,2,2,2,2,1,
+,980,21,M,Ignorado,PA/PS  Respiratório,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,1,2,1,9,1,1,1,1,9,2,9,9,2,2,2,2,2,
+,981,21,M,Parda,PA/PS  Respiratório,Sem morbidades,4,2,1,9,2,2,2,2,9,9,1,1,1,1,9,1,1,1,1,9,2,9,9,2,2,2,1,2,
+,982,38,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,1,9,2,2,1,2,9,9,2,2,2,1,9,2,2,2,1,9,2,9,9,2,2,2,2,1,
+,983,58,F,Parda,Domicílio após coleta exame,"Obesidade, Hipertensão",3,2,1,9,1,2,1,2,9,9,2,1,2,1,9,2,1,1,1,1,2,9,9,2,2,2,2,1,
+,984,76,F,Branca,Domicílio após coleta exame,"Hipertensão, Diabetes, Doença cardiovascular, Outras",1,2,2,9,2,2,2,2,9,9,1,1,2,2,9,1,2,1,2,9,2,9,9,2,2,2,2,2,
+,985,40,M,Branca,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,2,2,2,2,9,2,2,2,1,9,2,9,9,2,2,2,2,3,
+,986,25,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,2,1,1,1,9,9,2,1,2,1,9,1,2,2,1,9,2,9,9,1,2,2,2,1,
+,987,37,F,Branca,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,1,2,2,2,9,1,2,2,2,9,2,9,2,2,2,2,2,2,
+,988,22,M,Ignorado,PA/PS  Respiratório,Sem morbidades,1,2,1,9,1,2,2,2,9,9,2,1,2,1,9,2,2,2,1,9,2,9,9,2,2,2,2,2,
+,989,37,M,Branca,Domicílio após coleta exame,Outras,1,2,1,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,1,9,2,9,9,2,2,2,2,1,
+,990,24,F,Parda,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,2,2,9,9,1,2,2,2,9,1,2,2,2,2,2,9,9,2,2,2,2,1,
+,991,13,F,Ignorado,PA/PS  Respiratório,Sem morbidades,3,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,1,2,2,2,2,9,2,2,2,2,2,2,
+,992,28,M,Ignorado,PA/PS  Respiratório,Outras,5,2,2,2,2,2,2,2,9,9,1,1,2,1,9,1,2,1,1,9,2,9,9,2,2,2,2,2,
+,993,48,M,parda,PA/PS  Respiratório,Sem morbidades,2,2,1,9,1,1,2,2,9,1,1,1,2,1,9,1,2,2,1,2,2,9,9,1,2,2,2,1,
+,994,38,M,Branca,Domicílio após coleta exame,Ignorado,3,2,9,9,9,9,9,9,9,9,9,1,9,1,9,9,9,1,9,9,9,9,9,9,9,9,9,5,Contato com caso confirmado: Ivani
+,995,29,M,Parda,Domicílio após coleta exame,Doença Pulmonar,2,2,2,9,2,2,2,2,9,9,1,2,2,2,9,2,2,1,2,9,9,9,9,2,2,2,2,5,Contato com caso suspeito: Tavani Goulart
+,996,13,F,Branca,Domicílio após coleta exame,Sem morbidades,4,2,9,9,9,9,9,9,9,9,1,1,9,1,9,1,9,9,9,9,9,9,9,9,2,9,9,9,
+,997,27,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,9,9,9,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+,998,34,F,Ignorado,Domicílio após coleta exame,Sem morbidades,5,2,2,9,2,2,2,2,9,9,1,2,2,2,9,1,1,2,2,9,9,9,9,2,2,2,2,1,
+,999,43,M,Branca,Domicílio após coleta exame,Ignorado,1,2,1,9,2,2,2,2,9,9,1,1,1,2,9,1,9,2,1,9,9,9,9,2,9,2,2,9,Uso de medicamento: Escitalopram
+,1000,67,M,Ignorado,PA/PS  Respiratório,Sem morbidades,7,2,1,9,9,9,9,9,9,9,9,1,9,1,9,1,9,1,1,9,9,9,9,9,1,9,9,2,Uso de medicamento para dormir (não sabe referir o nome). Contato com caso confirmado: Maria Rosa Carmeiro Mesquita
+,1001,20,M,Branca,Domicílio após coleta exame,Sem morbidades,4,2,2,9,2,2,2,2,9,9,2,1,2,2,9,1,2,2,2,9,9,9,9,2,2,2,2,9,
+,1002,47,M,Parda,Domicílio após coleta exame,Sem morbidades,3,2,1,9,9,1,2,9,9,9,1,9,1,1,9,1,1,1,1,9,9,9,9,1,2,9,9,1,
+,1003,59,M,Parda,PA/PS  Respiratório,"Diabetes, Outras",6,2,9,9,9,9,9,9,9,9,9,9,9,1,9,9,9,1,9,9,9,9,9,9,9,9,9,2,Outros sintomas: dor nos rins e tontura. Outras morbidades: colesterol. Uso de medicamento.
+,1004,48,F,Branca,PA/PS  Respiratório,Sem morbidades,7,2,2,9,2,2,2,2,9,9,1,1,2,1,9,1,2,2,1,9,9,9,9,2,1,2,2,1,Outras morbidades: medicamento psiquiatrico controlado. Uso de medicamento: Sinegripe.
+,1005,48,,Ignorado,Domicílio após coleta exame,Ignorado,Ignorado,2,9,9,9,9,9,9,9,9,9,9,9,1,9,1,9,9,9,9,9,9,9,9,9,9,9,9,
+,1006,57,F,Ignorado,Domicílio após coleta exame,"Hipertensão, Outras",3,2,1,9,9,9,9,9,9,9,9,1,9,1,9,9,9,9,1,9,9,9,9,9,9,9,9,9,Outras morbidades: Usa losartana
+,1007,40,F,Ignorado,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,9,9,9,9,9,2,1,9,1,9,1,1,2,1,9,9,9,9,9,9,9,9,9,Uso de medicamento: Paracetamol
+,1008,40,M,Ignorado,Domicílio após coleta exame,"Hipertensão, Outras",1,2,9,9,9,9,9,9,9,9,1,9,9,9,9,1,9,9,9,9,9,9,9,9,9,9,9,2,Outras morbidades: cirurgia bariátrica (2 anos e meio)
+,1009,47,M,Branca,Domicílio após coleta exame,Sem morbidades,1,2,2,9,2,2,2,2,9,9,1,2,1,2,9,2,2,2,2,9,9,9,9,2,2,2,2,1,Profissional da saúde
+,1010,18,F,Parda,Domicílio após coleta exame,Ignorado,4,2,2,9,2,2,2,2,9,9,1,2,2,2,9,2,2,2,2,9,9,9,9,2,9,2,2,9,
+,1011,21,F,Branca,Domicílio após coleta exame,Ignorado,4,2,2,9,9,9,9,9,9,9,1,1,9,1,9,1,1,9,1,9,9,9,9,9,9,1,1,9,
+,1012,52,F,Branca,UTI COVID,Hipertensão,3,2,2,9,2,2,2,2,9,9,1,1,2,1,9,2,2,2,2,9,9,9,9,2,2,2,2,9,Usou medicamento: Losartana. Deu entrada na UTI-II COVID dia: 13/07. Dias de internação: 37
+,1013,52,F,Ignorado,Domicílio após coleta exame,"Hipertensão, Outras",3,2,2,9,2,1,2,1,9,9,1,2,1,1,9,1,1,2,1,9,9,9,9,1,2,9,2,9,Outras morbidades: Hipotireoidismo. Uso de medicamento: Paracetamol
+,1014,49,M,Parda,PA/PS  Respiratório,Hipertensão,2,2,1,9,1,2,2,2,9,9,1,1,1,1,9,1,1,2,2,9,9,9,9,2,2,1,2,1,"Uso de medicamento: Paracetamol, azitromicina, Ambroxol."
+,1015,4,M,Ignorado,Domicílio após coleta exame,Sem morbidades,2,2,2,9,2,2,1,2,9,9,2,1,1,1,9,2,2,2,1,9,9,9,9,2,2,2,2,2,"Contato com caso confirmado: Manuelle Machado Marcelo, Luana Machado Marcelo."
+,1016,14,M,Parda,Domicílio após coleta exame,Sem morbidades,2,2,1,9,2,2,2,2,9,9,1,1,2,1,9,1,1,1,2,9,9,9,9,2,2,2,2,9,
+,1017,27,F,Parda,Domicílio após coleta exame,Sem morbidades,7,2,2,9,2,2,2,2,9,9,1,1,1,1,9,1,2,2,1,9,9,9,9,2,2,2,2,2,Uso de medicamento: Dorflex. Contato com caso confirmado: Luiz Guilherme Queiroz.
+,1018,22,M,Branca,Domicílio após coleta exame,Sem morbidades,2,2,1,9,1,9,9,9,9,9,1,1,9,1,9,9,9,9,1,9,9,9,9,9,9,9,9,1,
+,1019,38,M,Branca,PA/PS  Respiratório,Sem morbidades,4,2,2,9,2,2,2,1,9,9,2,2,2,9,9,2,2,2,1,9,9,9,9,2,2,2,2,2,Contato com caso confirmado: Edinaldo Gusman
+,1020,59,F,Branca,Domicílio após coleta exame,Outras,7,2,9,9,9,1,1,9,9,9,1,1,9,1,9,1,9,1,1,9,9,9,9,1,9,9,9,2,Outras morbidades: Artrose. Contato com caso confirmado: Edinaldo Gusman
